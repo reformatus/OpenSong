@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Velem vagy mindig</title>
+  <lyrics>[v1]
+ Ha a mélyben lent járok, tudom, Te mellettem leszel.
+ Ha a tűzben ott állok, tudom, győztessé teszel.
+[p1]
+ Szívből kiáltok Tehozzád, nem félek már.
+[c]
+ /: Velem vagy mindig, velem vagy mindig,
+ előttem jársz, védesz; nem hagysz el, ha félek. :/
+[v2]
+ Szenvedésem legmélyén látom, fényed felragyog.
+ Az éj sötétje nem győzhet le, tudom, csak Benned bízhatok.
+[p2]
+ A harcaimban csak te éltetsz, én nem félek már!
+[b]
+ Megvallom, szeretlek, szívemből dicsérlek,
+ Te Úr vagy felettem, igéd szívembe rejtem.
+[t]
+ Erősségem és oltalmam vagy, menedék a viharban.
+ A hűséged nagy, reménységem vagy, a lelkem meggyógyítottad!
+;Elvileg ebből hiányzik egy p3, de sehol sem találtam.
+</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 P1 C V2 P2 C B T</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

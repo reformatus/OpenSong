@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>001 Ez az a nap</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[v1]
+ /: Ez az a nap, ez az a nap, mit az Úr rendelt, mit az Úr rendelt. :/
+ /: Örvendjünk, vigadjunk e napon! :/
+ Ez az a nap, ez az a nap, mit az Úr rendelt.
+[v2]
+ /: Jézus az Úr, Jézus az Úr, akit 
+ szolgálunk, akit szolgálunk. :/
+ /: Szolgáljuk hűséggel szent nevét! :/
+ Jézus az Úr, Jézus az Úr, akit szolgálunk.
+[v3]
+ /: Eljön az Úr, eljön az Úr, 
+ akit úgy várunk, akit úgy várunk! :/
+ /: Egy szívvel mondjuk, hogy jöjj vissza már! :/
+ Jövel Uram, jövel Uram, jövel Úr Jézus!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

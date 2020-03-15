@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Minden, amit alkotott, jó</title>
+  <lyrics>[v1]
+.D                    em                  A            D
+ Isten alkotta az oroszlánokat, a medvét, a kengurut. Isten alkotta a tevéket is, a tehenet, a tigrist.
+.D                  em             A            D       D7
+[c]
+.G                           D        em                A7    D       D7 G                         D     
+ Minden, amit alkotott, jó,
+ minden amit alkotott, jó,
+ minden amit alkotott, jó,
+ Az Ő műve mind.
+[v2]
+ Isten alkotta a füleimet is, a szememet, s az orrom. Isten alkotta az ujjaimat mind, a térdem, s a lábam. 
+[v3]
+ Emeld fel kezed, álljál fél lábra, mosolyogj az Úrnak! Csípd meg orrodat, görbítsd az ujjad fordulj körbe, és zengd:</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="body" keep_aspect="true" link="true" background_as_text="false"/>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Áldjuk a Mennyei Atyát</title>
+  <lyrics>[v1]
+ /: Áldjuk a Mennyei Atyát! :/
+ Halleluja!
+ Áldjuk a Mennyei Atyát!
+[v2]
+ /: Áldjuk az Egyszülött Fiút! :/
+ Halleluja!
+ Áldjuk az Egyszülött Fiút!
+[v3]
+ /: Áldjuk az Isten Szentlelkét! :/
+ Halleluja!
+ Áldjuk az Isten Szentlelkét!</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

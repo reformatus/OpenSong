@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Magnificat</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+ Magnificat anima me a Dominum. Magnificat anima me a Dominum.
+ et exultavit spiritus in Deo salutari meo.
+[v2]
+ Lelkemből áldlak Uram! Lelkemből áldlak Uram! Lelkemből áldlak Uram!
+ és ujjong a szívem Benned Megváltóm!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
