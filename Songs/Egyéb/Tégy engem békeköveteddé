@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>241-Tégy engem békeköveteddé</title>
+  <title>Tégy engem békeköveteddé</title>
   <author>Sebastian Temple</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -35,4 +35,7 @@
  Tégy engem békeköveteddé!
  Már sóvárogva vár rád a világ.
  Ó, add hogy lámpás legyek szent kezedben,
- aki utat mutat másoknak Hozzád!</lyrics></song>
+ aki utat mutat másoknak Hozzád!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
