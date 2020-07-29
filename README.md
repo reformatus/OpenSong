@@ -1,6 +1,11 @@
 # OpenSong
+
 ### Magyar keresztyén (többségében református) énekek tára az OpenSong programhoz.
-Feltöltötte és karban tartja: Fodor Benedek (RedyAu). Ez nem azt jelenti, hogy minden éneket én írtam volna be; az énekek nagyon sok különböző helyről származnak. Itt szeretném kiemelni Sütő Péter (Sücy) és a Sófár csapat munkáját.
+
+Feltöltötte és karban tartja: Fodor Benedek (RedyAu).
+
+Ez nem azt jelenti, hogy minden éneket én írtam volna be; az énekek nagyon sok különböző helyről származnak. Itt szeretném kiemelni Sütő Péter (Sücy) és a Sófár csapat munkáját.
+
 Az énektár távolról sincs befejezve! Ha neked is vannak meglévő OpenSongos énekeid, vagy a használat során javítasz az énekeken, vagy újakat írsz be, bátorítalak arra, hogy ezt oszd meg a többiekkel ezen a frissülő rendszeren keresztül. Lásd: Hozzájárulás szekció
 
 ## Használati útmutató
@@ -25,16 +30,21 @@ Ha a jövőben szeretnéd frissíteni az énektárat, nyisd meg a GitHub Desktop
 ### OpenSong használati útmutató (feltöltés alatt)
 
 ## Hozzájárulás
+
 Bár az itt levő énekeket Fodor 
 -feltöltés alatt-
 
 ## Haladó
 
 A .gitignore fájl úgy van beállítva, hogy csak a `\Songs` és `\Scriptures` mappa szinkronizálódik, tehát nem kell amiatt aggódnod, hogy az összeállított hátterek vagy alkalmak elvesznének.
+
 Ha szerkesztesz, vagy hozzáadsz éneket, hibába ütközhetsz a szinkronizálás során, mert össze kell egyeztetni a változásokat. Ezesetben kövesd a Hozzájárulás útmutatót.
+
 Ha szinkronizálásnál fáljszerkesztési konfliktus alakul ki, kövesd a következő útmutatót:
 -feltöltés alatt-
 
 ## Jogok
+
 Az énekszövegekkel saját szerzőik rendelkeznek.
+
 Ha szerzői jogi problémád van, írj a [fodor.benedek2001@gmail.com](mailto:fodor.benedek2001@gmail.com) címre.
