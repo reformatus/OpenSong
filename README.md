@@ -21,17 +21,16 @@ Az énektár frissen tartásához érdemes használni a GitHub Desktop alkalmaz�
   4. Töltsd le [innen az OpenSongot,](http://www.opensong.org/home/download) majd telepítsd, végül nyisd meg.
         
         Az OpenSong adatmappája legyen ugyanaz, mint ahova a GitHub Desktoppal az előző lépésben letöltötted az énektárat.
-  5. Zárd be az OpenSongot, majd navigálj a megadott adatmappába. A scriptures mappában található bibliafájlokat másold, majd az ott található linket követve illeszd be az OpenSong programmappáján belül a bibliák mappába (32-bites rendszeren a link nem működik, az útvonal: C:\Program Files\OpenSong\OpenSong Scripture).
+  5. Zárd be az OpenSongot, majd navigálj a megadott adatmappába. A `Scriptures` mappában található bibliafájlokat másold, majd az ott található linket követve illeszd be az OpenSong programmappáján belül a bibliák mappába (32-bites rendszeren a link nem működik, az útvonal: `C:\Program Files\OpenSong\OpenSong Scripture`).
 
 És elkészült a telepítés!
 
 Ha a jövőben szeretnéd frissíteni az énektárat, nyisd meg a GitHub Desktopot, felül kattints a "Fetch origin", majd ha megjelenik, a "Pull origin" lehetőségre.
 
-### OpenSong használati útmutató (feltöltés alatt)
+### [OpenSong használati útmutató (feltöltés alatt)](https://github.com/RedyAu/OpenSong)
 
 ## Hozzájárulás
 
-Bár az itt levő énekeket Fodor 
 -feltöltés alatt-
 
 ## Haladó
