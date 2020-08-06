@@ -10,6 +10,8 @@ Az énektár távolról sincs befejezve! Ha neked is vannak meglévő OpenSongos
 
 ## Használati útmutató
 
+-véglegesítés alatt-
+
 ### Elakadtál? [Keresd emailben Fodor Benedeket.](mailto:fodor.benedek2001@gmail.com)
 
 Az énektár frissen tartásához érdemes használni a GitHub Desktop alkalmazást. Ennek használatáról tudhatsz meg itt többet:
