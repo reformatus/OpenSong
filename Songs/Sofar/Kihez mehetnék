@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V C1 B V C2 B T</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,11 +16,10 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
+  <lyrics>[V]
  Kihez mehetnék? Kihez szólhatnék? 
  Ki adhat választ szívem rejtett kérdéseire?
- 
-[V2]
+ ||
  Kihez futhatnék? Kinek sírhatnék? 
  Ki méltó rá, hogy meghajtsam előtte térdeim?
  
@@ -40,13 +39,16 @@
  Ó Jézus, Te vagy egyedül, ki méltó, 
  hogy leborulva imádjon lelkem.
  
-[C3]
- Drága Jézus, 
+[B]
+ /: Drága Jézus, 
  Életemben, halálomban 
- Te vagy társam. 
+ Te vagy társam. :/
  
 [T]
- És ha minden fény kihunyna, 
+ /: És ha minden fény kihunyna, 
  s mindenki elhagyna, 
  Csak Te vagy egyedül, 
- ki velem maradna.</lyrics></song>
+ ki velem maradna. :/</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
