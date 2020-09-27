@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>145</title>
+  <title>Ma csak álmodom arról...</title>
   <author></author>
   <copyright></copyright>
-  <hymn_number></hymn_number>
+  <hymn_number>145</hymn_number>
   <presentation>V1 C V2 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
@@ -17,16 +17,28 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
- Ma csak álmodom arról, Gyönyörű lehet, Ha ott állok-végre előtted.
+ Ma csak álmodom arról, Gyönyörű lehet,
+ Ha ott állok-végre előtted.
  ||
- Ma csak álmodom arról, Hogy lesz majd egy nap, Mikor színről-színre látlak. Ma csak álmodom arról.
-[v2]
- Ma csak álmodom arról, Bár ott lennél már, Ahol a Fiú - mennyegzője vár.
- ||
- Ma csak álmodom arról, Mikor nem lesz más, Csupán boldog, örök imádás.
-[c]
- Mit érzek majd akkor, mikor dicsőséged vár? Talán csendben csodállak, vagy a lábam táncot jár?
- ||
- Vajon térdemre hullok, vagy állva nézek rád? Halleluját kiáltok, vagy elnémul a szám?
+ Ma csak álmodom arról, Hogy lesz majd egy nap,
+ Mikor színről-színre látlak.
  Ma csak álmodom arról.
- Ma csak álmodom arról.</lyrics></song>
+[v2]
+ Ma csak álmodom arról, Bár ott lennél már,
+ Ahol a Fiú - mennyegzője vár.
+ ||
+ Ma csak álmodom arról, Mikor nem lesz más,
+ Csupán boldog, örök imádás.
+ Ma csak álmodom arról.
+[c]
+ Mit érzek majd akkor, mikor dicsőséged vár?
+ Talán csendben csodállak, vagy a lábam táncot jár?
+ ||
+ Vajon térdemre hullok, vagy állva nézek rád?
+ Halleluját kiáltok, vagy elnémul a szám?
+ ||
+ Ma csak álmodom arról.
+ Ma csak álmodom arról.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
