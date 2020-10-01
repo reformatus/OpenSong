@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>627-Igéddel áldj meg bennünket, Urunk</title>
+  <title>Igéddel áldj meg bennünket, Urunk</title>
   <author>Vizi István</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 C1 C1 V2 C2 C2</presentation>
+  <presentation></presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -22,21 +22,20 @@
  Így lesz e hajlék
  lelki otthonunk,
 [c1]
- Buzdíts, hogy szívvel
+ /: Buzdíts, hogy szívvel
  szolgáljunk neked,
  Áraszd e házra
- áldott lelkedet!
+ áldott lelkedet! :/
 [v2]
  Igéddel hívtál
  most is hű Urunk,
  Bármerre küldesz,
  bátran indulunk.
 [c2]
- Buzdíts, hogy szívvel
+ /: Buzdíts, hogy szívvel
  szolgáljunk neked,
  Áraszd ki ránk is
- áldott lelkedet!
- Példa szerkesztés</lyrics>
+ áldott lelkedet! :/</lyrics>
   <linked_songs/>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
