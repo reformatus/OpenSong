@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>141</title>
+  <title>Ki vagy Te?</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -26,4 +26,7 @@
 [v3]
  Ki vagy Te, ki lemostad könnyemet Ha senki nincs velem, Te itt maradsz közel
  Te vagy lelkem szerelme Vonj magadhoz még, vonj magadhoz még
- Vezess hát, vigyél át Veled kell az élet</lyrics></song>
+ Vezess hát, vigyél át Veled kell az élet</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

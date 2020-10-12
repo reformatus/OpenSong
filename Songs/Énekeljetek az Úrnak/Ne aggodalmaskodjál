@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>013 - Ne aggodalmaskodjál</title>
+  <title>Ne aggodalmaskodjál</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -19,4 +19,7 @@
   <lyrics>[v1]
  Ne aggodalmaskodjál, nézz Istenedre fel! Ő felruház, és táplál, rád gondot ő visel.
 [v2]
- Dicső Király! Ég és a föld Ura! Szívünk tiéd, légy annak is Ura!</lyrics></song>
+ Dicső Király! Ég és a föld Ura! Szívünk tiéd, légy annak is Ura!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

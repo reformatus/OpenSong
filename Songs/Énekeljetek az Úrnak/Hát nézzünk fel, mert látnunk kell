@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>128</title>
+  <title>Hát nézzünk fel, mert látnunk kell</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -25,4 +25,7 @@
  Lépést lépés így követ majd, Győzelmet a földön így nyerünk.
  Minden imánk erős fegyver, Az ellenség előttünk meg nem áll,
  Nem áll, nem áll!
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

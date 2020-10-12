@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>139</title>
+  <title>Jézus az Úr a mennyben, s mindenek felett</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -24,4 +24,7 @@
  Irgalmat találok, mert bűnöm elmostad. Szerelmed mélyebb a mély vizeknél.
  A mennynél magasabb, mindent átjár, túlér a csillagok fényén.
  ||
- Jézus, végtelen szerelmed, végtelen szerelmed.</lyrics></song>
+ Jézus, végtelen szerelmed, végtelen szerelmed.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

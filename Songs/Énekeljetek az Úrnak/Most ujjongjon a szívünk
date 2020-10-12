@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>067 - Most ujjongjon a szívünk</title>
+  <title>Most ujjongjon a szívünk</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -29,4 +29,7 @@
 [v6]
  /: Jó az Úr, a mi Istenünk. :/ /: Szeretete sose múlik. :/ Ő igaz Isten, hű minden nemzedéken.
 [v7]
- Most ujjongjon a szívünk, az Úr színe előtt állva, szolgáljunk Neki vígan az Úrnak szolgáljunk vígan. Magasztaljuk énekszóval, szent hódolattal.</lyrics></song>
+ Most ujjongjon a szívünk, az Úr színe előtt állva, szolgáljunk Neki vígan az Úrnak szolgáljunk vígan. Magasztaljuk énekszóval, szent hódolattal.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

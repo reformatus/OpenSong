@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>079 - Jézus, te égi szép</title>
+  <title>Jézus, te égi szép</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -23,4 +23,7 @@
 [v3]
  Akaratod nekem mutasd meg szüntelen, ne rejtsd el, Mesterem tetszésedet! Alázattal tele, hadd merüljek bele, hisz idegenben jár itt gyermeked!
 [v4]
- Tisztíts meg teljesen, szentelj meg hadd legyen, fényedből fénysugár az életem. Míg a homályon át a lelkem otthonát, világosságodat elérhetem!</lyrics></song>
+ Tisztíts meg teljesen, szentelj meg hadd legyen, fényedből fénysugár az életem. Míg a homályon át a lelkem otthonát, világosságodat elérhetem!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

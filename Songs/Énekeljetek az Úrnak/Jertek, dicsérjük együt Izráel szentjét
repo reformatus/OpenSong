@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>082 - Jertek, dicsérjük együtt Izrael Szentjét</title>
+  <title>Jertek, dicsérjük együtt</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -23,4 +23,7 @@
 [v3]
  Gyertek, gyertek, Menjünk fel az Úr hegyére, vígasságnak lakhelyére
  Ujjongjunk Ő előtte, táncoljunk Ő előtte, Az Ő neve, az Ő neve, ott lakik az Úr!
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

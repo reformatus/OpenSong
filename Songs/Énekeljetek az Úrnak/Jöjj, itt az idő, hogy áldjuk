@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>140</title>
+  <title>Jöjj, itt az idő, hogy áldjuk</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -21,4 +21,7 @@
  Jöjj, bárhogy is érzed, áldd most! Jöjj, bárhogy is állj az Úr előtt!
 [v2]
  Egy nap minden megvallja, hogy Jézus az Úr. Egy nap minden térdet hajt.
- Te légy Uram legnagyobb kincsükké, Ha Hozzád térnek ma!</lyrics></song>
+ Te légy Uram legnagyobb kincsükké, Ha Hozzád térnek ma!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

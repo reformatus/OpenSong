@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>155</title>
+  <title>Úr Jézus, Megváltóm, nincs senki olyan, mint Te</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -31,4 +31,7 @@
 [v4]
  Kiálts az Úrhoz te föld és te ég! Mert övé az élet, a mindenség! Mozdul a hegy és harsog a föld, hogyha hallja szent nevét.
  ||
- Örömmel zengem, hogy Te vagy az Úr, Szeretlek, szolgállak, nincs visszaút, senki sincs más, aki örök reményt ígér.</lyrics></song>
+ Örömmel zengem, hogy Te vagy az Úr, Szeretlek, szolgállak, nincs visszaút, senki sincs más, aki örök reményt ígér.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

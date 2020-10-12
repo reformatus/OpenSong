@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>129</title>
+  <title>Hatalmas vagy, erős Isten</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -19,4 +19,7 @@
   <lyrics>[v1]
  Hatalmas vagy, erős Isten, Szent és dicső senki más nincsen.
  Feltámadtál és Te győztél, A halálon uralmat vettél
- /: Halleluja, örvendezzünk hát! :/</lyrics></song>
+ /: Halleluja, örvendezzünk hát! :/</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

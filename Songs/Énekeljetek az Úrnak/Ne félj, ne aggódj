@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>060 - Ne félj, ne aggódj</title>
+  <title>Ne félj, ne aggódj</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -18,4 +18,7 @@
   <time_sig></time_sig>
   <lyrics>[v1]
  Ne félj, ne aggódj, ne sírj, ne bánkódj: Ha tiéd Isten, tiéd már minden.
- Ne félj, ne aggódj, ne sírj, ne bánkódj: Elég Ő néked.</lyrics></song>
+ Ne félj, ne aggódj, ne sírj, ne bánkódj: Elég Ő néked.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>109</title>
+  <title>Tiéd a végtelen kárpiton túli tér</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -29,4 +29,7 @@
  Adonáj…
 [c]
  Adonáj, Adonáj! Minden térdet hajt örök trónodnál,
- Adonáj, Adonáj! Minden nyelv így szól: Te vagy Úr, s Király! Adonáj!</lyrics></song>
+ Adonáj, Adonáj! Minden nyelv így szól: Te vagy Úr, s Király! Adonáj!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

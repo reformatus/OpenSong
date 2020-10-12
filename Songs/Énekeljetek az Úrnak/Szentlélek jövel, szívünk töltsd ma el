@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>064 - Szentlélek jövel, Szívünk töltsd ma el</title>
+  <title>Szentlélek jövel, Szívünk töltsd ma el</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -26,4 +26,7 @@
  Szenteld meg szívünk, Hogy eggyé legyünk, Hogy Jézusról vallást tenni Mindig kész legyünk!
 [v5]
  Ha eljő az est, Ránk fátylat ereszt, Boldog szívvel zengje ajkunk: Győzött a kereszt!
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

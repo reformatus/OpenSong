@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>135</title>
+  <title>Irgalmad tengerében elmélyülök</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -22,4 +22,7 @@
 [v2]
  Hová mennék, kihez futnék, e világon nincsen számomra hely
  Hová mennék, kihez futnék, hisz két karod vár reám, s
- ez nekem elég.</lyrics></song>
+ ez nekem elég.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

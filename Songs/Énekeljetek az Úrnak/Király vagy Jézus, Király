@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>142</title>
+  <title>Király vagy Jézus, Király</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -19,4 +19,7 @@
   <lyrics>[v1]
  /: Király vagy, Király vagy, Jézus Király! :/
  Most felemeljük a szívünket. Most felemeljük kezeinket.
- /: Trónod elé járulunk, imádunk! :/</lyrics></song>
+ /: Trónod elé járulunk, imádunk! :/</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

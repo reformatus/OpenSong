@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>114</title>
+  <title>Köszönöm, hogy eljöttél és a kereszten</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -29,4 +29,7 @@
  ||
  Most már nem engedlek el, a lelkem ragaszkodik Hozzád! Szeretek énekelni Rólad, magasztalni Neved, Oly jó vagy hozzám, kiválasztottál.
  ||
- Szívemben lángra gyúlt a hála, azért, amit tettél, Magadhoz vontál, életet adtál nekem.</lyrics></song>
+ Szívemben lángra gyúlt a hála, azért, amit tettél, Magadhoz vontál, életet adtál nekem.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

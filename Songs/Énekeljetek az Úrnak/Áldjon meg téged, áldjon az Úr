@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>009 - Áldjon meg téged</title>
+  <title>Áldjon meg téged</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -17,4 +17,7 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
- Áldjon meg téged, áldjon az Úr! Őrizzen téged, őrizzen Ő! Orcáját mennyekből fordítsa le rád Atyád! Könyörüljön rajtad, könyörüljön rajtad! Adjon békességet!</lyrics></song>
+ Áldjon meg téged, áldjon az Úr! Őrizzen téged, őrizzen Ő! Orcáját mennyekből fordítsa le rád Atyád! Könyörüljön rajtad, könyörüljön rajtad! Adjon békességet!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

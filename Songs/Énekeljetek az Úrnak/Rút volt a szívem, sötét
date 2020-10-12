@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>075 - Rút volt szívem, sötét</title>
+  <title>Rút volt szívem, sötét</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -19,4 +19,7 @@
   <lyrics>[v1]
  Rút volt szívem, sötét, de Jézus oda betért! Mert megmosott a vér, lett szívem hófehér!
 [v2]
- Ott járok majd, tudom, a színarany úton! Ó, micsoda nagy szeretet: lemosta bűneimet.</lyrics></song>
+ Ott járok majd, tudom, a színarany úton! Ó, micsoda nagy szeretet: lemosta bűneimet.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

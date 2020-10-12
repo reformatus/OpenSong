@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>024 - Jézus szívedbe lát</title>
+  <title>Jézus szívedbe lát</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -27,4 +27,7 @@
  Nézi, hogy merre, merre, merre mész!
 [v4]
  Jézus fogja kezed! Segít és megy veled!
- Segít és együtt, együtt megy veled!</lyrics></song>
+ Segít és együtt, együtt megy veled!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

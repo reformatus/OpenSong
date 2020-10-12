@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>083 - Nem volt fény, amely továbbvezet</title>
+  <title>Nem volt fény, amely továbbvezet</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -30,4 +30,7 @@
  Ki szól hozzám, ki félt majd, ha álmodom, És nélküled ébredek föl?
 [c2]
  Ő áll mellettem, Ő érzi bánatom, ha a legmélyebb gyász vesz körül.
- Ő szól hozzám, Ő félt majd, ha álmodom, ha ijedten ébredek föl.</lyrics></song>
+ Ő szól hozzám, Ő félt majd, ha álmodom, ha ijedten ébredek föl.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

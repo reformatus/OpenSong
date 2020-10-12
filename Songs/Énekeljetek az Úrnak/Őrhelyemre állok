@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>150</title>
+  <title>Őrhelyemre állok</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -30,4 +30,7 @@
 [b]
  Meglátjuk majd egyszer Őt, elváltozunk ábrázatára,
  Akiben megvan ez a reménység, önmagát mind megtisztítja.
- Halleluja, szent az Úr.</lyrics></song>
+ Halleluja, szent az Úr.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>022 - Ő az Úr, Ő az Úr</title>
+  <title>Ő az Úr, Ő az Úr</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -23,4 +23,7 @@
  Ő az Úr!
 [c]
  Minden térd meghajoljon, minden nyelv csak 
- Róla szóljon, mert Jézus Krisztus Úr!</lyrics></song>
+ Róla szóljon, mert Jézus Krisztus Úr!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

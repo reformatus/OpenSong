@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>152</title>
+  <title>Jézus, én Téged választottalak</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -19,4 +19,7 @@
   <lyrics>[v1]
  Jézus én Téged választottalak, Hol halál jár és fojtogat, Ott Te vagy nekem az élet! Feléd tárom két kezem, Engem küldjél Istenem, Jelként, ahova kell!
  [v2]
- Hát jöjj és élj velem, egy egész életen át! Nem győz a félelem, Ha látja szívem Urát!</lyrics></song>
+ Hát jöjj és élj velem, egy egész életen át! Nem győz a félelem, Ha látja szívem Urát!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

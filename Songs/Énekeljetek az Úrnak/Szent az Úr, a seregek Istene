@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>157</title>
+  <title>Szent az Úr, a seregek Istene</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -21,4 +21,7 @@
  ||
  Aki volt, aki van, s aki eljövendő, egyedül jó, egyedül bölcs, egyedül üdvözítő.
 [v2]
- Mindent hall, mindent lát, mindenhol jelen van. Ő a kezdet és a vég, /: Ő az élet forrása. :/</lyrics></song>
+ Mindent hall, mindent lát, mindenhol jelen van. Ő a kezdet és a vég, /: Ő az élet forrása. :/</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>005 - Itt az este</title>
+  <title>Itt az este, ránk borul árnya</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -18,4 +18,7 @@
   <time_sig></time_sig>
   <lyrics>[v1]
  Itt az este, ránk borul árnya, védjen, óvjon hű kezed!
- Adjál annak, akit szeretsz álmában is eleget.</lyrics></song>
+ Adjál annak, akit szeretsz álmában is eleget.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

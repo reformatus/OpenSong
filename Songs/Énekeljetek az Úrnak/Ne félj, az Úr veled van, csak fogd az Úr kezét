@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>148</title>
+  <title>Ne félj, az Úr veled van, csak fogd az Úr kezét</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -24,4 +24,7 @@
  Neveden szólított téged az Úr, 
  gyermeke vagy!
  Mikor próbák érik az életed, Ő el nem hagy.
- Az Úr veled, figyel terád, szeret téged az Úr.</lyrics></song>
+ Az Úr veled, figyel terád, szeret téged az Úr.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

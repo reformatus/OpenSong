@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>054 - Cum ba yah</title>
+  <title>Cum ba yah</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -30,4 +30,7 @@
  Ó, Jézus, hozzánk jöjj!
 [v5]
  /: Néked zeng dalunk: Jézus jöjj! :/ 3X
- Ó, Jézus, hozzánk jöjj!</lyrics></song>
+ Ó, Jézus, hozzánk jöjj!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

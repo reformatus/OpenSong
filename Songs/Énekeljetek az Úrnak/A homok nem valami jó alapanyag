@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>042 - A homok nem valami jó alapanyag</title>
+  <title>A homok nem valami jó alapanyag</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -25,4 +25,7 @@
  ||
  /: Mielőtt alapod lerakod, jó, ha végig gondolod, megáll-e otthonod? :/
 [v3]
- /: Van egy szikla, ami mindig áll, építsd rá a házad. Van egy szikla, mai mindig áll, és ha jön a víz, jön az ár, a szíved nem kalapál. :/ </lyrics></song>
+ /: Van egy szikla, ami mindig áll, építsd rá a házad. Van egy szikla, mai mindig áll, és ha jön a víz, jön az ár, a szíved nem kalapál. :/ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

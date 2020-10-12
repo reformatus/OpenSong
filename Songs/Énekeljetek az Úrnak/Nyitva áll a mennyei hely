@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>164</title>
+  <title>Nyitva áll a mennyei hely</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -37,4 +37,7 @@
  És én arcra borulok
  Mert a fényed rám ragyog
  És én arcra borulok
- Dicsőséged rám ragyog.</lyrics></song>
+ Dicsőséged rám ragyog.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

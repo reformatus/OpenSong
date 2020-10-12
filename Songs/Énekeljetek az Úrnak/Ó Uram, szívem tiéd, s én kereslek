@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>149</title>
+  <title>Ó Uram, szívem tiéd, s én kereslek</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -23,4 +23,7 @@
  Kedves áldozat hadd lehessek.
  ||
  Dicsérlek Téged, szeretetedért.
- S ahogy arcod ragyog rám, szépségedről éneklek.</lyrics></song>
+ S ahogy arcod ragyog rám, szépségedről éneklek.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

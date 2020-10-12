@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>098</title>
+  <title>Jöjj, az Úr vár reád</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -24,4 +24,7 @@
  Tétován mire vársz? Hallod-é már a hívó szót? El ne késs, jajj, vigyázz, mire eszmélsz a van csak volt.
 [v3]
  Jézus hív, vele járj, erre váltott meg Ő. Lelki sziklára állj, élő víz onnan jő.
- Ő nekünk utat tört, te is lépj arra hittel rá! Már itt lent, s oda fönt téged Ő tehet boldoggá!</lyrics></song>
+ Ő nekünk utat tört, te is lépj arra hittel rá! Már itt lent, s oda fönt téged Ő tehet boldoggá!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

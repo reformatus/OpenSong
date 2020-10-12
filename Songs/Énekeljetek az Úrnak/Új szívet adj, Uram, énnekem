@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>025 - Új szívet adj, Uram, énnekem</title>
+  <title>Új szívet adj, Uram, énnekem</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -24,4 +24,7 @@
  Hol egyedül a Te hangod szól, Mely Véled van tele, csak Véled van tele.
 [v3]
  Jézus, a Te gyógyító kezed, Megfogta már a szívemet,
- S én is tudom, bűntelen leszek, Majd Nálad odafenn, a mennyben odafenn.</lyrics></song>
+ S én is tudom, bűntelen leszek, Majd Nálad odafenn, a mennyben odafenn.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

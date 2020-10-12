@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>089 - Imádkozzatok és buzgón kérjetek</title>
+  <title>Imádkozzatok és buzgón kérjetek</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -31,4 +31,7 @@
  Elfáradtunk, Uram e világ zaján.
  ||
  Ó, nyisd meg az égi béke szép honát, Add, hogy zenghessünk örök halleluját!
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

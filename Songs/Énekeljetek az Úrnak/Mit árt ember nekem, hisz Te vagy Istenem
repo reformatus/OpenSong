@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>127</title>
+  <title>Mit árt ember nekem, hisz Te vagy Istenem</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -23,4 +23,7 @@
  E világban sok baj vár ránk, de mindezt legyőzted Te már!
 [v2]
  Fényed minden csillagot túlragyog, Szíved tisztább, mint a fehér hó,
- Fényed lelkem betölti erővel, Hogy Veled járjak.</lyrics></song>
+ Fényed lelkem betölti erővel, Hogy Veled járjak.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
