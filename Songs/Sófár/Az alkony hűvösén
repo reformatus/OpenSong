@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 C V2 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -33,4 +33,7 @@
  hiába minden, hangom is elreked.
  Elfúj mindent, mindent a szél...
  ó, csak te maradtál, te maradtál enyém.
- De most...</lyrics></song>
+ De most...</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

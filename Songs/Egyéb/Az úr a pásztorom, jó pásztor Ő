@@ -17,6 +17,13 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
- Az Úr a pásztorom, jó pásztor Ő. Nyájával arra jár, amerre várva vár, A forrás hűs vize, a zöld mező.
+ Az Úr a pásztorom, jó pásztor Ő.
+ Nyájával arra jár, amerre várva vár,
+ A forrás hűs vize, a zöld mező.
 [v2]
- Ha ő a pásztorom semmi sem árt. Törődik énvelem, vigyáz rám szüntelen, Követem lábnyomát mindenen át.</lyrics></song>
+ Ha ő a pásztorom semmi sem árt.
+ Törődik énvelem, vigyáz rám szüntelen,
+ Követem lábnyomát mindenen át.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
