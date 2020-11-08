@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Jöjj, mondjunk hálaszót</title>
+  <title>167. Dicséret</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -32,4 +32,7 @@
  Az Atyát és Fiút  és a Szentlelket áldom;
  A menny Urát, kiben  Szent egybe forrt a három;
  Aki úgy szól ma is,  ahogy régente szólt,
- Nem változik: az Ő,  és az lesz, aki volt.</lyrics></song>
+ Nem változik: az Ő,  és az lesz, aki volt.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
