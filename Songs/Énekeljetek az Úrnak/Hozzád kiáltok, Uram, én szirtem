@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>131</title>
+  <title>Hozzád kiáltok, Uram, én szirtem!</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>V1 C V2 C</hymn_number>
@@ -23,6 +23,9 @@
  Halld meg, kérlek esedezésem szavát, Mikor fennszóval kiáltok Hozzád,
  Mikor két kezem felemelem Szent helyed felé, Mert csak Tőled jöhet a segítség. 
 [c]
- /: Áldott az Úr, áldott az Úr
+ /: Igen, Áldott az Úr, áldott az Úr
  Meghallgatja esedezéseim szavát! :/
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

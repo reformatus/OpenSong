@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>117</title>
+  <title>A keresztre tekint már szemem</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -33,4 +33,7 @@
  A mindenség perdülve dalol: Ez rólad szól.
  A néped táncol, táncol, táncol: Ez rólad szól, ez rólad szól!
 [c]
- /: Nem miénk, csak Tiéd minden dicsőség! :/</lyrics></song>
+ /: Nem miénk, csak Tiéd minden dicsőség! :/</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

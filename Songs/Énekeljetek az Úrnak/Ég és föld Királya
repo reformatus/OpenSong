@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>124</title>
+  <title>Ég és föld Királya</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -24,4 +24,7 @@
 [c]
  Csodás Isten a mindenség Ura! Hiszem, szent vagy, szent vagy.
  A nagy világ csak téged magasztal! Hiszem, szent vagy, szent vagy!
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

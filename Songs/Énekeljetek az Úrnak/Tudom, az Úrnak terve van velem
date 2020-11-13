@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>092 - Tudom, az Úrnak terve van velem</title>
+  <title>Tudom, az Úrnak terve van velem</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -25,4 +25,7 @@
 [v4]
  /: Tudom,az Úr megőriz mindenkor! :/ Ezért hálás életem, Őt dicsérem szüntelen, Tudom,az Úr megőriz mindenkor!
 [v5]
- /: Tudom, az Úr mindent jóra vezet! :/ Ezért hálás életem, Őt dicsérem szüntelen, Tudom, az Úr mindent jóra vezet!</lyrics></song>
+ /: Tudom, az Úr mindent jóra vezet! :/ Ezért hálás életem, Őt dicsérem szüntelen, Tudom, az Úr mindent jóra vezet!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

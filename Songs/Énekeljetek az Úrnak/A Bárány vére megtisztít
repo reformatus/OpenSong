@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>070 - A Bárány vére megtisztít</title>
+  <title>A Bárány vére megtisztít</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -21,4 +21,7 @@
  És mindent újjá tesz. Újjá tesz, újjá tesz. A Bárány vére megtisztít, És mindent újjá tesz.
 [v2]
  A Jézus sebe meggyógyít. A Megváltó megszabadít, A Bárány vér megtisztít,
- A Jézus sebe meggyógyít, A Megváltó megszabadít, És mindent újjá tesz.</lyrics></song>
+ A Jézus sebe meggyógyít, A Megváltó megszabadít, És mindent újjá tesz.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

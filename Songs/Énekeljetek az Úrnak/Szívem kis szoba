@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>071 - Kis szívem kis szoba</title>
+  <title>Kis szívem kis szoba</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -25,4 +25,7 @@
 [v4]
  Menj oda Őhozzá, hogy Ő megtisztítson, Vérével megmosson, üdvösséget adjon!
 [v5]
- Jézusom, Királyom, arra kérlek Téged: Tisztítsd meg szívemet, és a rossztól védd meg!</lyrics></song>
+ Jézusom, Királyom, arra kérlek Téged: Tisztítsd meg szívemet, és a rossztól védd meg!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

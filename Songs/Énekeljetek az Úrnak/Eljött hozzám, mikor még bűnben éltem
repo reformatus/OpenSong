@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>158</title>
+  <title>Eljött hozzám, mikor még bűnben éltem</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -21,4 +21,7 @@
 [v2]
  Eljöttem, hogy áldjam, csodáljam, imádjam Azt, ki értem adta önmagát Csodálatos Isten, dicsőséges Bárány Fogadd el szívem imádatát
 [v3]
- /: Sosem fogom megtudni azt, milyen nagy volt az áldozat Hívd segítségül Nevét és megmenekülsz. :/</lyrics></song>
+ /: Sosem fogom megtudni azt, milyen nagy volt az áldozat Hívd segítségül Nevét és megmenekülsz. :/</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>091 - Áldlak, jó Uram, teljes szívemből</title>
+  <title>Áldlak, jó Uram, teljes szívemből</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -19,4 +19,7 @@
   <lyrics>[v1]
  Áldalak, jó Uram, teljes szívemből. Hirdetem majd csodás tetteid, és énekelek rólad.
 [v2]
- Áldalak, jó Uram, teljes szívemből. Boldoggá tesz, hogy hozzád tartozom. Halleluja!</lyrics></song>
+ Áldalak, jó Uram, teljes szívemből. Boldoggá tesz, hogy hozzád tartozom. Halleluja!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

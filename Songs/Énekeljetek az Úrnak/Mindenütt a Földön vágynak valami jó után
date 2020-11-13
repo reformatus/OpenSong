@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>086 - Mindenütt a Földön vágynak valami jó után</title>
+  <title>Mindenütt a Földön vágynak valami jó után</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -26,4 +26,7 @@
  Senki nem tud úgy szeretni, ahogy az Úr szeret. Ha elhagyna mindenki, Ő megmarad neked.
  Mert nem tud nem szeretni, hiszen Ő a szeretet. Mindent elhordoz, s ha kell, sok vétket elfedez.
 [c]
- A szeretet nem fogy el sosem. A szeretet átvisz az életen. Mindent elhisz és remél, a szeretet mindennél többet ér.</lyrics></song>
+ A szeretet nem fogy el sosem. A szeretet átvisz az életen. Mindent elhisz és remél, a szeretet mindennél többet ér.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

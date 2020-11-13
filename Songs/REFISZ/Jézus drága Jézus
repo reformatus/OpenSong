@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>9-Jézus drága Jézus</title>
+  <title>Jézus drága Jézus</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -19,18 +19,21 @@
   <lyrics>[V1]
  //: Jézus, drága Jézus!
  Teljes lényemet 
- csak benned rejtem el. ://
+ én Benned rejtem el. ://
  
 [V2]
- //: Vágyaim, céljaim, terveim,
+ //: Vágyaim, terveim, céljaim, 
  Mindent átadok,
  A kezedben hagyok.://
  
 [C1]
- //: Mert te általad 
+ //: Mert Teáltalad 
  a szívem már szabad.://
  
 [V3]
  Jézus, drága Jézus!
  Átadom magam, 
- mert oltalmam te vagy!</lyrics></song>
+ mert oltalmam Te vagy!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

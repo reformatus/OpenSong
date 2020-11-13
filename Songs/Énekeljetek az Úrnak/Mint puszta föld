@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>146</title>
+  <title>Mint puszta föld</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -22,4 +22,7 @@
  Ha nem volnál mellettem, mit érne az életem?
  Mert én hozzád tartozom, A Menny az otthonom, A Menny...
 [v2]
- Jöjj és önts el, mint partjait az Óceán, Ragyogjon fel napfényed az éj után.</lyrics></song>
+ Jöjj és önts el, mint partjait az Óceán, Ragyogjon fel napfényed az éj után.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

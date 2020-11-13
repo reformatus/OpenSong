@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>29-Úr lesz a Jézus mindenütt</title>
+  <title>Úr lesz a Jézus mindenütt</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -41,4 +41,7 @@
  A Király Krisztust tisztelje; 
  Angyali ének zengjen fenn,
  S mind e föld mondja rá: Ámen.
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

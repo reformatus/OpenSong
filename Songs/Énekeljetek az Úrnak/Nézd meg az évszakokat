@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>094 - Nézd meg az évszakokat</title>
+  <title>Nézd meg az évszakokat</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -23,4 +23,7 @@
 [v3]
  Tekints most önmagadba, Jelenre és a múltra, Mondd, milyennek látod életed. Találsz-e szépet benne, Olyat, mi igaz lenne, Vagy még mindig megcsal a szíved.
 [c]
- Csak egy van, Aki soha, soha meg nem változik, Aki tegnap és örökké ugyanaz. A világ összedőlhet és az idő elmúlik, De Jézus Krisztus mindig hű marad.</lyrics></song>
+ Csak egy van, Aki soha, soha meg nem változik, Aki tegnap és örökké ugyanaz. A világ összedőlhet és az idő elmúlik, De Jézus Krisztus mindig hű marad.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

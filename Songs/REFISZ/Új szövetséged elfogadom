@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>27-Új szövetséged elfogadom</title>
+  <title>Új szövetséged elfogadom</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -30,4 +30,7 @@
  Hű lenni nékem, tudom, nehéz,
  De szívem lássad, hű lenni kész.
  Járva az útat, ha botlanék,
- Emelj magadhoz, keresztedért.</lyrics></song>
+ Emelj magadhoz, keresztedért.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

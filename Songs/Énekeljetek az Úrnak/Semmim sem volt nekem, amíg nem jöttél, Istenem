@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>111</title>
+  <title>Semmim sem volt nekem, amíg nem jöttél, Istenem</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -23,4 +23,7 @@
  Mert kegyelmedből nekem adtad Magad, most szemtől szembe láthatlak.
  ||
  Mert kegyelmedből lettem gyermeked, a kegyelmed köszönöm neked!
- A kegyelmed köszönöm Neked!</lyrics></song>
+ A kegyelmed köszönöm Neked!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

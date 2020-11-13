@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>84. Ó seregeknek Istene</title>
+  <title>84. Zsoltár</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -46,4 +46,7 @@
  Azokkal kegyelmet tészen, :/:  Kik járnak a jó ösvényen:
  ||
  Sok javaival áldja őket,  Boldog az ember éltében,  Ki bízik az Úr Istenben. 
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

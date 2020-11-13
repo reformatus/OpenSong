@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>019 - Hozsánna Dávid fiának</title>
+  <title>Hozsánna Dávid fiának</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -22,4 +22,7 @@
  Dicsőség, dicsőség, a feltámadott Úrnak! 
 [c]
  Hozzád száll énekünk, szívünkből szeretünk:
- Nincs kőszikla senki más, csak Te vagy; a mi Istenünk!</lyrics></song>
+ Nincs kőszikla senki más, csak Te vagy; a mi Istenünk!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

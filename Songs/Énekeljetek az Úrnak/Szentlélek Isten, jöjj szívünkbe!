@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>034 - Szentlélek Isten, jöjj szívünkbe</title>
+  <title>Szentlélek Isten, jöjj szívünkbe</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -22,4 +22,7 @@
  Jöjj égi erő, jöjj lelkesítő, jöjj szent tiszta láng, tüzet fogjon e fásult világ
 [c]
  /: Szentlélek Isten, jöjj szívünkbe, igen óhajtunk! :/
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

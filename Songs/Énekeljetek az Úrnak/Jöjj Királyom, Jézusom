@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>105</title>
+  <title>Jöjj Királyom, Jézusom</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -27,4 +27,7 @@
 [v5]
  A keresztet te adod, Adj hozzá alázatot: Hordjam olyan csendesen, Mint egykor te, Mesterem.
 [v6]
- Majd ha véget ér a harc S megpihentetni akarsz: megragadom jobbodat, S mennyországod béfogad.</lyrics></song>
+ Majd ha véget ér a harc S megpihentetni akarsz: megragadom jobbodat, S mennyországod béfogad.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

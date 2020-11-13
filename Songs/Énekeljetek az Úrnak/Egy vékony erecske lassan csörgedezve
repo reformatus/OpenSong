@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>123</title>
+  <title>Egy vékony erecske lassan csörgedezve</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -24,4 +24,7 @@
  Nőtt oly hatalmasra, úsztam, vitt a sodra, /: Zúdult a tengerbe, hogy azt meggyógyítsa. :/
 [c]
  Áradj folyó, sodorj el, Vigyél magaddal!
- Jöjjön az élő víz, töltsön el Örökké áradó folyamokkal!</lyrics></song>
+ Jöjjön az élő víz, töltsön el Örökké áradó folyamokkal!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

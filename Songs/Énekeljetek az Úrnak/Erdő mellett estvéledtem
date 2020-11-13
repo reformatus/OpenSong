@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>006 - Erdő mellett estvéledtem</title>
+  <title>Erdő mellett estvéledtem</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -24,4 +24,7 @@
  A járkálást, a bujdosást, Az idegen földön lakást.
 [v3]
  Adjon Isten jó éjszakát, Küldje hozzánk szent angyalát,
- Bátorítsa szívünk álmát, Adjon Isten jó éjszakát</lyrics></song>
+ Bátorítsa szívünk álmát, Adjon Isten jó éjszakát</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

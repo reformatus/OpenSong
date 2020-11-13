@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>040 - Dávid egykor mint pásztorfiú indult a harcba</title>
+  <title>Dávid egykor mint pásztorfiú indult a harcba</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -26,4 +26,7 @@
  Minden nap újabb ellenség jön, készülj a harcra! Isten minden fegyverzetét öltsd fel 
  magadra!
 [c2]
- Jó barátom, van-e hited győzni minden bűn felett, Ellenállni, ha a világ csalogatja szívedet?</lyrics></song>
+ Jó barátom, van-e hited győzni minden bűn felett, Ellenállni, ha a világ csalogatja szívedet?</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

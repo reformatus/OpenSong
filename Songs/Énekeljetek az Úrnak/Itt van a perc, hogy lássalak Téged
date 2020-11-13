@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>113</title>
+  <title>Itt van a perc, hogy lássalak Téged</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -27,4 +27,7 @@
 [c]
  Ott nem szólhat dal, hol fényed még nem ég, Itt vagyok, Uram, hát hadd lássalak még.
  ||
- Rám ragyog a Menny, Lényed elér, Itt vagyok, Uram, hát hadd lássalak még.</lyrics></song>
+ Rám ragyog a Menny, Lényed elér, Itt vagyok, Uram, hát hadd lássalak még.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

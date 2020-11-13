@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>107</title>
+  <title>Mindennap Veled leszek</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -24,4 +24,7 @@
  Hát ne félj, én népem, hisz tiéd az örökségem. Ne félj és ne lankadj el, hisz neked győznöd kell!
 [c3]
  Hát kell!
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

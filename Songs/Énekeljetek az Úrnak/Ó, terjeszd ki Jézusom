@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>055 - Ó, terjeszd ki Jézusom</title>
+  <title>Ó, terjeszd ki Jézusom</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -23,4 +23,7 @@
 [v3]
  Ó, mosson meg az értem bőven hullt drága vér! Új lélekért könyörgöm, újult akaratért.
 [v4]
- Kicsik, nagyok mind kérünk: őrködj vigyázva ránk! Békességedbe  térünk: Te álld meg éjszakánk!</lyrics></song>
+ Kicsik, nagyok mind kérünk: őrködj vigyázva ránk! Békességedbe  térünk: Te álld meg éjszakánk!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

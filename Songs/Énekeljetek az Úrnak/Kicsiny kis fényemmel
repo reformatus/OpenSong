@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>037 - Kicsiny kis fényemmel</title>
+  <title>Kicsiny kis fényemmel</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -27,4 +27,7 @@
  Áldom Őt minden nap és mindenhol.
 [v4]
  /: Így teszek, míg Jézus jön (igen), világítani fogok. :/ 3X
- Áldom Őt minden nap és mindenhol.</lyrics></song>
+ Áldom Őt minden nap és mindenhol.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

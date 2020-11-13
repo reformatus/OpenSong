@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>003 - Hála, hogy itt a csendes reggel</title>
+  <title>Hála, hogy itt a csendes reggel</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -24,4 +24,7 @@
  Hála, hogy minden ellenségnek békéd hozhatom.
 [v3]
  Hála a munka áldásáért, hála a boldog percekért,
- Hála, hogy adtál dalt is, fényt is, adtál szép zenét.</lyrics></song>
+ Hála, hogy adtál dalt is, fényt is, adtál szép zenét.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>144</title>
+  <title>Lent a Via Dolorsán</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -29,4 +29,7 @@
  Ő megtisztított, új lelket adott, Vére által egy új életre hívott,
 [v5]
  Lent a Via Dolorosán, minden fájdalom útján Isten fia feláldozta önmagát.
- Végtelen nagy szeretettel vállalta érted, értem, Lent a Via Dolorosán a halált, ó, a halált.</lyrics></song>
+ Végtelen nagy szeretettel vállalta érted, értem, Lent a Via Dolorosán a halált, ó, a halált.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

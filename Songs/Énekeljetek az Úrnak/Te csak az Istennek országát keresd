@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>020 - Te csak az Istennek országát keresd</title>
+  <title>Te csak az Istennek országát keresd</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -29,4 +29,7 @@
  Ragyogja be fényed az embereket, Hogy meglássák dicsőségét,
  És áldjuk együtt Atyánkat a mennyben. Halleluja, halleluja!
 [c]
- Halleluja, halleluja, halleluja, halleluja.</lyrics></song>
+ Halleluja, halleluja, halleluja, halleluja.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

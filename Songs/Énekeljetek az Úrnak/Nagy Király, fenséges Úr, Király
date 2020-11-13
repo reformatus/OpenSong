@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>076 - Nagy Király, fenséges Úr, Király</title>
+  <title>Nagy Király, fenséges Úr, Király</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -21,4 +21,7 @@
  Szent sereg, előtted hajt fejet, hozsannát zeng: Te vagy a Szent! - téged imád.
 [v2]
  Nincs más név! Te vagy az üdv, az élet, Jézus. Megtartónk, Szabadítónk: csak Te vagy a Fény!
- Nagy Király! Imádunk nagy Király! Hatalom, üdv, áldás, erő, minden tiéd!</lyrics></song>
+ Nagy Király! Imádunk nagy Király! Hatalom, üdv, áldás, erő, minden tiéd!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>018 - Róla beszél fű, virág</title>
+  <title>Róla beszél fű, virág</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -23,4 +23,7 @@
 [v2]
  Érzem én is jóságát, szeretete illatát, Béke legyen mindenkivel, nála öröm vár. 
 [v3]
- Béke legyen mindenkivel, Krisztus Úr, Király!</lyrics></song>
+ Béke legyen mindenkivel, Krisztus Úr, Király!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

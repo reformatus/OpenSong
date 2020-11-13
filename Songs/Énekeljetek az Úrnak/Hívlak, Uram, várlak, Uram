@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>130</title>
+  <title>Hívlak, Uram, várlak, Uram!</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -25,4 +25,7 @@
  Mert Te szóltál, és víz fakadt a kősziklából; Mert Te szóltál, és megindult a föld szavadtól.
 [c]
  /: Benned bízom én, Terád vágyom én
- Jöjj el, Uram és cselekedjél :/</lyrics></song>
+ Jöjj el, Uram és cselekedjél :/</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

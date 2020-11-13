@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>038 - Úr Jézus, Úr Jézus, taníts meg örülni</title>
+  <title>Úr Jézus, Úr Jézus, taníts meg örülni</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -21,4 +21,7 @@
  Taníts, hogy ne legyek másoknak kárára, Taníts meg jóságra, békére, hálára!
 [v2]
  Taníts, hogy jól éljek, taníts meg fényleni, Örvendő élettel messzire fényleni!
- Tanítsd meg szívemet csak Veled repülni, Úr Jézus, Úr Jézus, taníts meg örülni!</lyrics></song>
+ Tanítsd meg szívemet csak Veled repülni, Úr Jézus, Úr Jézus, taníts meg örülni!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

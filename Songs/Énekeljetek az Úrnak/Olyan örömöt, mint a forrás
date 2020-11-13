@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>077 - Olyan örömöt, mint a forrás</title>
+  <title>Olyan örömöt, mint a forrás</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -33,4 +33,7 @@
  Annyi testvért kaptam Tőled, Istenem (, Istenem).
 [v6]
  /: Olyan reményt, mint a hajnal, :/
- olyan reményt kaptam tőled Istenem (, Istenem). </lyrics></song>
+ olyan reményt kaptam tőled Istenem (, Istenem). </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

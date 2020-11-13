@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>030 - Nem volt nélküle boldogságom</title>
+  <title>Nem volt nélküle boldogságom</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -22,4 +22,7 @@
  Jöjj, hát add a kezed, testvérem, Járjunk mind a kereszt fényében, Éljünk boldogan, békességben, Hisz odaát vár a menny!
 [c]
  /: Soha nem fél már a szívem! :/ 3X
- Mert velem van az Úr.</lyrics></song>
+ Mert velem van az Úr.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

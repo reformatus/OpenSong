@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>14-Magára vette szennyes ruhámat</title>
+  <title>Magára vette szennyes ruhámat</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -18,33 +18,44 @@
   <time_sig></time_sig>
   <lyrics>[V1]
  Magára vette 
- szennyes ruhámat,
+ Szennyes ruhámat,
  Így békíté meg 
  Istent, Atyámat,
  Így békíté meg, 
- így békíté meg 
+ Így békíté meg 
  Istent, Atyámat,
 [V2]
- Kín, mely Őt érte,
- nékem volt szánva,
+ A kín, az átok,
+ én bűnöm ára,
  De Ő felvitte 
- a Golgotára,
+ A Golgotára,
  De Ő felvitte, 
- de Ő felvitte
- a Golgotára.
+ De Ő felvitte
+ A Golgotára.
 [V3]
- Szerelmes szíve 
- szakadt meg értem,
- Hogy eltörölje 
- mind-mind a vétkem,
- Hogy eltörölje, 
- és eltörölte 
- mind-mind a vétkem.
+ Bűn büntetését
+ kereszten értem,
+ Magára vette
+ a szenvedésem.
+ Magára vette,
+ Magára vette
+ a szenvedésem.
 [V4]
+ Szerelmes szíve 
+ Szakadt meg értem,
+ Hogy eltörölje 
+ Mind-mind a vétkem,
+ Hogy eltörölje, 
+ És eltörölte 
+ Mind-mind a vétkem.
+[V5]
  Jézus, Te drága, 
- mit adjak Néked?
+ Mit adjak Néked?
  Összetört szívem
- hozom elébed.
+ Hozom elébed.
  Összetört szívem, 
- összetört szívem
- hozom elébed.</lyrics></song>
+ Összetört szívem
+ Hozom elébed.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

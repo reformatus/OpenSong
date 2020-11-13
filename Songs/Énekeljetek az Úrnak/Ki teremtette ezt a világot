@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>010 - Ki teremtette ezt a világot</title>
+  <title>Ki teremtette ezt a világot</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -17,12 +17,20 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
- Ki teremtette ezt a világot, az egész világot, az egész világot? Ki teremtette ezt a világot? Atyánk, Istenünk.
+ Ki teremtette ezt a világot, az egész világot, az egész világot?
+ Ki teremtette ezt a világot? Atyánk, Istenünk.
 [v2]
- Ki teremtette a kék tengert, a hullámzó tengert, a hullámzó tengert? Ki teremtette a kék tengert? Atyánk, Istenünk.
+ Ki teremtette a kék tengert, a hullámzó tengert, a hullámzó tengert?
+ Ki teremtette a kék tengert? Atyánk, Istenünk.
 [v3]
- Ki teremtette a sok csillagot,ragyogó csillagot, ragyogó csillagot? Ki teremtette a sok csillagot? Atyánk, Istenünk.
+ Ki teremtette a sok csillagot, ragyogó csillagot, ragyogó csillagot?
+ Ki teremtette a sok csillagot? Atyánk, Istenünk.
 [v4]
- Ki teremtette a madárkát,repülő madárkát, repülő madárkát? Ki teremtette a madárkát? Atyánk, Istenünk.
+ Ki teremtette a madárkát, repülő madárkát, repülő madárkát?
+ Ki teremtette a madárkát? Atyánk, Istenünk.
 [v5]
- Ki teremtett meg téged, őt és engem, téged, őt és engem, téged, őt és engem? Ki teremtett meg téged, őt és engem? Atyánk, Istenünk.</lyrics></song>
+ Ki teremtett meg téged, őt és engem, téged, őt és engem, téged, őt és engem?
+ Ki teremtett meg téged, őt és engem? Atyánk, Istenünk.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

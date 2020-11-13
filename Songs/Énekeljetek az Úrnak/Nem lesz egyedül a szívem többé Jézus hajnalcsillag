@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>029 - Nem lesz egyedül a szívem többé</title>
+  <title>Nem lesz egyedül a szívem többé</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -19,4 +19,7 @@
   <lyrics>[v1]
  /: Nem lesz egyedül a szívem többé, glóri’! Halleluja! :/
 [v2]
- /: Jézus hajnalcsillag, glóri’! Halleluja! :/</lyrics></song>
+ /: Jézus hajnalcsillag, glóri’! Halleluja! :/</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

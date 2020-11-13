@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>143</title>
+  <title>Még többet Tőled</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -27,4 +27,7 @@
  Senki sincs Hozzád hasonló, Uram.
  Olyan vagy Te, mint egy igaz barát,
  Tudod jól szívem minden  gondolatát.
- Adj nekem többet magadból, még többet! </lyrics></song>
+ Adj nekem többet magadból, még többet! </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>041 - Ha betelt a pohár</title>
+  <title>Ha betelt a pohár</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -31,4 +31,7 @@
 [c2]
  Hát számolj tízig újra meg újra, mielőtt a szád megszólalna,
  Számolj tízig újra meg újra, ha felmegy a pumpa.
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

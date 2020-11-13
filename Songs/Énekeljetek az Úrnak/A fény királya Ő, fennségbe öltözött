@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>160</title>
+  <title>A fény Királya Ő</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -25,4 +25,7 @@
 [b]
  Minden név felett való, dicséretre méltó! Szívem énekel: mily nagy Istenünk!
 [c]
- Mily nagy Istenünk! Énekeld: Mily nagy Istenünk! És lásd meg: Mily nagy, mily nagy Istenünk!</lyrics></song>
+ Mily nagy Istenünk! Énekeld: Mily nagy Istenünk! És lásd meg: Mily nagy, mily nagy Istenünk!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

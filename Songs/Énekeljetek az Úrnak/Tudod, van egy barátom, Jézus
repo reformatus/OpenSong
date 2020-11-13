@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>026 - Tudod, van egy Barátom: Jézus</title>
+  <title>Tudod, van egy Barátom: Jézus</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -23,4 +23,7 @@
  És ha elrontottam valamit, És ha elhibáztam százszor,
  Mindig meghallgatta panaszom, És egy új reményt adott.
 [v3]
- Tudod, van egy Barátom: Jézus!</lyrics></song>
+ Tudod, van egy Barátom: Jézus!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

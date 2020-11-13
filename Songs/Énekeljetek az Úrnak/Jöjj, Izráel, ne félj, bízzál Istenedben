@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>008 - Jöjj, Izráel, ne félj, bízzál Istenedben</title>
+  <title>Jöjj, Izráel, ne félj, bízzál Istenedben</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -23,4 +23,7 @@
 [v3]
  Örülj Izráel, az Úr a te Istened, szeresd az egy Urat!
 [v4]
- Teljes szívedből, teljes lelkedből, teljes elmédből.</lyrics></song>
+ Teljes szívedből, teljes lelkedből, teljes elmédből.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

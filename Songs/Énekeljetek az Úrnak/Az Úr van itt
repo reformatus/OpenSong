@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>088 - Az Úr van itt</title>
+  <title>Az Úr van itt, a te Istened</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -25,4 +25,7 @@
 [v3]
  Az Ő Fiát, (az Ő Fiát) 
  Aki most is él, (aki most is él,) S uralkodik mindörökké.
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

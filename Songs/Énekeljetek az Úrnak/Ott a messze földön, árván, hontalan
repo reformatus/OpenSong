@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>048 - Ott a messze földön árván, hontalan</title>
+  <title>Ott a messze földön árván, hontalan</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -31,4 +31,7 @@
 [v5]
  Szómnak ellenállnod úgyis hasztalan, Jöjj, mert egyre várlak, fiam, fiam!
  Vár atyád szerelme, vár rád vigasza, Jöjj a messze tájról, ó jöjj haza! 
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

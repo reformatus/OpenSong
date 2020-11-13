@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>134</title>
+  <title>Így szól az Úr hozzád, Jákob, figyelj</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -31,4 +31,7 @@
 [c]
  Mikor vízen mégy át, tudd meg, veled vagyok, És el nem borítanak a nagy folyamok.
  ||
- Ne félj, ha tűzben jársz, én majd vigyázok rád, Meg nem égsz, nem perzsel, el nem ér a láng</lyrics></song>
+ Ne félj, ha tűzben jársz, én majd vigyázok rád, Meg nem égsz, nem perzsel, el nem ér a láng</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

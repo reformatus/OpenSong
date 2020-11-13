@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>097 - Áldásoddal megyünk</title>
+  <title>Áldásoddal megyünk</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -34,4 +34,7 @@
 [c]
  Maradj mindig velünk,
  ha útra kelünk,
- őrizd életünk mindenkor!</lyrics></song>
+ őrizd életünk mindenkor!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

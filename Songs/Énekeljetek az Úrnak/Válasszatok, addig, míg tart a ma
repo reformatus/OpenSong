@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>093 - Válasszatok, addig, míg tart a ma</title>
+  <title>Válasszatok, addig, míg tart a ma</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -27,4 +27,7 @@
 [v3]
  Válasszatok, addig míg tart a ma, Ki legyen a ti szíveteknek Ura. Én azonban, s az én otthonom, Az Urat szolgáljuk minden napon.
  ||
- Válasszatok, addig míg tart a ma, Ki legyen a ti szíveteknek Ura. Nem szolgálhat két Úrnak senki sem Egyiket gyűlölni vagy szeretni kell.</lyrics></song>
+ Válasszatok, addig míg tart a ma, Ki legyen a ti szíveteknek Ura. Nem szolgálhat két Úrnak senki sem Egyiket gyűlölni vagy szeretni kell.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

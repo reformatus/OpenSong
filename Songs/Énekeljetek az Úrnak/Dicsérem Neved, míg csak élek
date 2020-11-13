@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>125</title>
+  <title>Dicsérem Neved, míg csak élek</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -17,8 +17,17 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
- Dicsérem neved, míg csak élek, míg élek, Kősziklám vagy Te, melyen állok,  s nem rendülök meg.
- Magas helyeken jártatsz engem, oly jó veled, Mert Te vagy igazságom, hűséges Istenem.
+ Dicsérem neved, míg csak élek, míg élek,
+ Kősziklám vagy Te, melyen állok,  s nem rendülök meg.
+ ||
+ Magas helyeken jártatsz engem, oly jó veled,
+ Mert Te vagy igazságom, hűséges Istenem.
 [v2]
- Ígéretedet elrejtettem a szívembe, Parancsolatod megőriztem és nem felejtem.
- Rendeléseid szemem előtt vannak szüntelen, Nem távozom el utadról sohasem.</lyrics></song>
+ Ígéretedet elrejtettem a szívembe,
+ Parancsolatod megőriztem és nem felejtem.
+ ||
+ Rendeléseid szemem előtt vannak szüntelen,
+ Nem távozom el utadról sohasem.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

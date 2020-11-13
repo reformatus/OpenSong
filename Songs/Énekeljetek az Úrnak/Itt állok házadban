@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>119</title>
+  <title>Itt állok házadban</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -27,4 +27,7 @@
  Mert Te rám találtál, megváltozott minden, Jézus Veled minden más.
  ||
  Te jössz és átfested az életem, hát hadd legyek Veled, csak örökké Veled.
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

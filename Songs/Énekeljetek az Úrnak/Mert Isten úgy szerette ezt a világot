@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>116</title>
+  <title>Mert Isten úgy szerette ezt a világot</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -27,4 +27,7 @@
  ||
  Nem felejtem el, amit értem tettél,
  Nem felejtem el, mibe került ez neked,
- Nem felejtem el, hogy a véreddel mostál meg, Jézus.</lyrics></song>
+ Nem felejtem el, hogy a véreddel mostál meg, Jézus.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

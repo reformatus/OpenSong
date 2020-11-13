@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>068 - Még kicsi a szívem</title>
+  <title>Még kicsi a szívem</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -29,4 +29,7 @@
 [c]
  Legyen olyan a szíved, hogy beleférhessen az egész nagy világ! Legyen olyan az orrod, hogy megérezhesd Isten illatát!
  ||
- Legyen gyors a lábad, és erős a két kezed, Ha Isten küld, hát indulj! És szívedben csak Ő legyen a Király!</lyrics></song>
+ Legyen gyors a lábad, és erős a két kezed, Ha Isten küld, hát indulj! És szívedben csak Ő legyen a Király!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>061 - Zengj halleluját az Úrnak</title>
+  <title>Zengj halleluját az Úrnak</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -28,4 +28,7 @@
 [v4]
  /: Ő nemsokára visszajön. :/
  Jön talán még ma, és elvisz haza, Ő nemsokára visszajön.
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

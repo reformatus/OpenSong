@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>101 - Ne félj, mert megváltottalak</title>
+  <title>Ne félj, mert megváltottalak</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -25,4 +25,7 @@
  ||
  Nem rejtőzöm el, szeretet-lángom átölel, ne félj, ha éjben jársz, hidd, hogy a Fény vár rád!
 [c]
- Ne félj, mert megváltottalak, Neveden szólítottalak, Karjaimba zártalak, Örökre enyém vagy!</lyrics></song>
+ Ne félj, mert megváltottalak, Neveden szólítottalak, Karjaimba zártalak, Örökre enyém vagy!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>080 Élet van tebenned</title>
+  <title>Élet van tebenned</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -19,4 +19,7 @@
   <lyrics>[v1]
  /: Élet van tebenned, erő van tebenned, Remény van tebenned, ó Jézus. :/
 [v2]
- Így dicsérlek életemmel És áldlak minden erőmmel, Az életemmel, minden erőmmel. Csak benned van reményem.</lyrics></song>
+ Így dicsérlek életemmel És áldlak minden erőmmel, Az életemmel, minden erőmmel. Csak benned van reményem.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

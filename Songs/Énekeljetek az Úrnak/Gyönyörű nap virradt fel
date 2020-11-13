@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>108</title>
+  <title>Gyönyörű nap virradt fel</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -28,4 +28,7 @@
  Ó milyen gyönyörű nap igazi örömet ad, hogy megmentettél, Ó, milyen gyönyörű nap milyen gyönyörű név!
 [c]
  Eljött a nap, az a nap, mikor bűnöm elmostad.
- Eljött a nap, ez a nap mindent megváltoztat: Semmi nem kárhoztat</lyrics></song>
+ Eljött a nap, ez a nap mindent megváltoztat: Semmi nem kárhoztat</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
