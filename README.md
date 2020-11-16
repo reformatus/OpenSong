@@ -4,7 +4,7 @@
 
 Feltöltötte és karban tartja: Fodor Benedek (RedyAu).
 
-Ez nem azt jelenti, hogy minden éneket én írtam volna be; az énekek nagyon sok különböző helyről származnak. Itt szeretném kiemelni Sütő Péter (Sücy), Rácz-Schliszka Gábor, Uri-Kovács Zsolt és a Sófár csapat munkáját.
+Ez nem azt jelenti, hogy minden éneket én írtam volna be; az énekek nagyon sok különböző helyről származnak. Itt szeretném kiemelni Sütő Péter (Sücy), Rácz-Schliszka Gábor, Uri-Kovács Dani és Zsolt, valamint a Sófár csapat munkáját.
 
 Az énektár távolról sincs befejezve! Ha neked is vannak meglévő OpenSongos énekeid, vagy a használat során javítasz az énekeken, vagy újakat írsz be, bátorítalak arra, hogy ezt oszd meg a többiekkel ezen a frissülő rendszeren keresztül. Lásd: Hozzájárulás szekció
 
