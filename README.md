@@ -1,6 +1,6 @@
 # OpenSong
 
-### Magyar keresztyén (többségében református) énekek tára az OpenSong programhoz.
+### Magyar keresztyén (Református, Sófáros, Refiszes, Golgotás) énekek tára az OpenSong programhoz.
 
 Feltöltötte és karban tartja: Fodor Benedek (RedyAu).
 
