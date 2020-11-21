@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 P V2 P C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -18,21 +18,19 @@
   <time_sig></time_sig>
   <lyrics>[V1]
  Könyörgünk most népünkért előtted,
- Kik beszennyeztük háromszor
- szent neved.
+ Kik beszennyeztük háromszor szent neved.
+ ||
  Szent sereggé tettél egykor minket,
- De oly sokszor csak egymást
- sebeztük meg.
+ De oly sokszor csak egymást sebeztük meg.
  
 [V2]
  Könyörgünk most szívünkért előtted,
- Hol a csalódások megtörték
- a fényed.
+ Hol a csalódások megtörték a fényed.
+ ||
  A vádak helyett hadd halljuk a hangod,
- A sebünk helyett hadd lássuk
- meg arcod!
+ A sebünk helyett hadd lássuk meg arcod!
  
-[B]
+[P]
  És ha elfogy az erőnk,
  hogy elengedjük...
  Elfogy a hitünk,
@@ -40,8 +38,11 @@
  
 [C]
  Haragtól izzó szíveinknek új esély
- A keresztfán kicsorduló 
- szent drága vér:
+ A keresztfán kicsorduló  szent drága vér:
+ ||
  Ez a megbocsátó szeretet,
  Ami elsöpör minden szemetet!
- Tisztítsd meg, Jézus, népedet!</lyrics></song>
+ Tisztítsd meg, Jézus, népedet!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
