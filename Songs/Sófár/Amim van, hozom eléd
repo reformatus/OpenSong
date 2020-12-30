@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Amim van</title>
+  <title>Amim van, hozom eléd</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 V2 C1 V3 C2 B C1</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -33,18 +33,21 @@
  minden sóhaj, gondolat,
  Rólad szóljon, 
  Rólad Uram.
- 
-[C]
- Egész életem átadom,
- hadd legyen Tiéd.
- Velem bármit terveztél,
- legyen meg örökké!
- 
-[B1]
+  
+[C1]
  Ó, szomjas szívem Terád vár!
  Ó, arra vágyom, ölelj át, Jézus!
  
-[B2]
+[C2]
  Ó, szomjas szívem Te rád vár!
  Ó, arra vágyom, ölelj át!
- Óóó...</lyrics></song>
+ Ó...
+
+[B]
+ Egész életem átadom,
+ hadd legyen Tiéd.
+ Velem bármit terveztél,
+ legyen meg örökké!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

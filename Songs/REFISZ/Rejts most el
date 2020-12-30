@@ -4,19 +4,21 @@
   <lyrics>[V1]
  Rejts most el a szárnyad alá
  Erős kézzel takarj be engem
-[V2]
+[C]
  Tenger tombol, zúg, süvít a szél
  Te emelsz fel a vihar fölé
  Uralkodsz hullámok habjain
  Szívem nem fél, Benned remél
-[V3]
+[V2]
  Csak Istenben bízz, én lelkem
  Mert Ő él, nagyobb mindennél
+[T]
+ Szívem nem fél, Benned remél
  </lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 V2 V3 V2</presentation>
+  <presentation>V1 C V3 C T</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>

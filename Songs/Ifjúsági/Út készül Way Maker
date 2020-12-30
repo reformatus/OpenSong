@@ -4,25 +4,23 @@
   <lyrics>[V1]
  /: Eljöttél, Szentlelked itt jár – imádunk hát, imádunk hát
  Eljöttél, láncok hullnak már – imádunk hát, imádunk hát :/
+[P]
+ /: Út készül, csodákat látunk; álmok válnak végre valóra
+ Így lesz, Isten köztünk jár! :/
 [V2]
  Eljöttél, miénk a megváltás – imádunk hát, imádunk hát
  Eljöttél, meggyógyítottál – imádunk hát, imádunk hát
-[C]
- Út készül, csodákat látunk; álmok válnak végre valóra
- Így lesz, Isten köztünk jár!
- Út készül, csodákat látunk; hajnal tépi szét a sötétet
- Így lesz, Isten köztünk jár!
 [V3]
  Eljöttél, hogy sorsokat írj át – imádunk hát, imádunk hát
  Eljöttél, mindent átformálsz – imádunk hát, imádunk hát
-[B1]
+[C]
  /: Isten köztünk jár, Isten köztünk jár!
  Isten köztünk jár, Isten köztünk jár! :/
-[B2]
- Akkor is ha nem látom, nem érzem,
+[B]
+ /: Akkor is, ha nem látom, nem érzem,
  Akkor is, ha nem látom, nem érzem,
  Te akkor is harcolsz értem,
- Akkor is harcolsz értem!
+ Akkor is harcolsz értem! :/
 [V4]
  Felszárad minden könny - itt van a gyógyulás
  A válasz csak te vagy, Jézus
@@ -32,7 +30,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 V2 C V3 C B1 B2 C B1 V4 V5</presentation>
+  <presentation>V1 P V2 V3 P C B P C V4 V5</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
