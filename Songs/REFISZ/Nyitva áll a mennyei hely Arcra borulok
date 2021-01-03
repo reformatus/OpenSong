@@ -17,10 +17,8 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
- Nyitva áll a mennyei hely, 
- ahol jelenléted vár rám,
- Ez a hely az irgalomé, 
- mégis hódolattal lépek Hozzád.
+ Nyitva áll a mennyei hely,  ahol jelenléted vár rám,
+ Ez a hely az irgalomé,  mégis hódolattal lépek Hozzád.
  
 [c]
  És én arcra borulok, 
@@ -29,15 +27,17 @@
  dicsőséged rám ragyog!
  
 [v2]
- Nincs olyan a mennyben, mint Te,
- Hozzád hasonló a földön nincsen!
- Mindenek Királya vagy, 
- íme, meghajlok előtted!
+ Nincs olyan a mennyben, mint Te, Hozzád hasonló a földön nincsen!
+ Mindenek Királya vagy,  íme, meghajlok előtted!
  
 [v3]
  Dicsőséged járjon át, dicsőséged járjon át,
  Jöjj most közünk jó Atyánk, vágyunk Rád!
+ ||
  Dicsőséged járjon át, dicsőséged járjon át,
  Szentlelked töltsd ki ránk, várunk Rád!
  
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
