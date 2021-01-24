@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>15-Te vagy az, Akiből élet árad</title>
+  <title>Te vagy az, Akiből élet árad</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -20,14 +20,15 @@
  Te vagy az, Akiből élet árad,
  Te vagy csak igaz szó a számban,
  Szívem kincse, lélegzetem, mindenem!
+ ||
  Te vagy az, Akire mindig vártam,
  Hajnalcsillag vagy az éjszakában,
  Olyan egyedül érzem magam nálküled!
 [C1]
  De te velem vagy, Jézus, mindennap,
  Te vagy a fény, ha éjjel van,
- Te vagy a tűz a szívemben, 
- Ami ég!
+ Te vagy a tűz a szívemben, Ami ég!
+ ||
  Jézus, te vagy az életemben csak,
  Igaz barát, ki el nem hagy,
  Minden óra, minden nap a Tiéd!
@@ -35,16 +36,19 @@
  Erős szikla vagy Te, amire állok,
  Te vagy az, aki a boldogságot
  Elhoztad az égből az én szívembe!
+ ||
  Én nem ismertelek, de Te ismertél,
  Életedet adtad, úgy szerettél.
- Hogyan köszönjem meg Néked
- az egész életem?
+ Hogyan köszönjem meg Néked az egész életem?
 [C2]
  Jó, hogy velem vagy, Jézus, mindennap,
  Te vagy a fény, ha éjjel van,
- Te vagy a tűz a szívemben, 
- Ami ég!
+ Te vagy a tűz a szívemben, Ami ég!
+ ||
  Jézus, te vagy az életemben csak,
  Igaz barát, ki el nem hagy,
  Minden óra, minden nap a Tiéd!
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
