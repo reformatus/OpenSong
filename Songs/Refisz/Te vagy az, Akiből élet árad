@@ -27,8 +27,8 @@
 [C1]
  De te velem vagy, Jézus, mindennap,
  Te vagy a fény, ha éjjel van,
- Te vagy a tűz a szívemben, 
- Ami ég!
+ Te vagy a tűz a szívemben, Ami ég!
+ ||
  Jézus, te vagy az életemben csak,
  Igaz barát, ki el nem hagy,
  Minden óra, minden nap a Tiéd!
@@ -39,8 +39,7 @@
  ||
  Én nem ismertelek, de Te ismertél,
  Életedet adtad, úgy szerettél.
- Hogyan köszönjem meg Néked
- az egész életem?
+ Hogyan köszönjem meg Néked az egész életem?
 [C2]
  Jó, hogy velem vagy, Jézus, mindennap,
  Te vagy a fény, ha éjjel van,
@@ -51,5 +50,9 @@
  Minden óra, minden nap a Tiéd!
  </lyrics>
   <linked_songs/>
+<<<<<<< HEAD:Songs/Refisz/Te vagy az, Akiből élet árad
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+=======
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+>>>>>>> dc590bca205941b9313f0104d1c1d8571bdd7354:Songs/REFISZ/Te vagy az, Akiből élet árad
 </song>
