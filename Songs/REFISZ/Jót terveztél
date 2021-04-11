@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>8-Jót terveztél</title>
+  <title>Jót terveztél</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>C V1 C V2 B1 B2 B1</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,25 +16,27 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
+  <lyrics>[C]
  Jót terveztél az életem felől
  Szívből örülsz mikor jót tehetsz velem.
  Értem adtad Jézust a Bárányt,
  Hogyne ajándékoznál mindent nekem.
-[V2]
+[V1]
  Mielőtt megszülettem Te már elhívtál.
  Szerelmed, mint napfény árad rám.
  Kegyelmed örökké tart, sosem múlik el.
  Fiaddá fogadtál
-[V3]
+[V2]
  Jézusban fiad vagyok szeretett gyermek.
  Te lettél az igazgyöngy, akiért élek.
  Semmi nem választ el te kegyelmedtől,
  Te vagy már örökségem!
-[V4]
- Jót, igen jót, igen jót, igen jót terveztél!
-[V5]
- Kiáltom: Abba, szerelmes Atyám!
- Kiáltom: Abba, szerelmes Atyám!
- Kiáltom: Abba, szerelmes, szerelmes Atyám!
- </lyrics></song>
+[B1]
+ /: Jót, igen jót, igen jót, igen jót terveztél! :/
+[B2]
+ Kiáltom:
+ /: Abba, szerelmes Atyám! :/
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
