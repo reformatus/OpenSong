@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>30-Várlak, Uram, jöjj hozzám</title>
+  <title>Várlak, Uram, jöjj hozzám</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -31,10 +31,9 @@
  Hallom angyalok kórusát
  Éneklem én is, hogy szent vagy Uram,
  Szent vagy Istenem!
-[C3Coda]
- Látlak már Téged, mint győztes királyt,
- Hallom angyalok kórusát
- Éneklem én is, hogy szent vagy Uram,
- Szent vagy Istenem!
+[T]
  Tiéd minden tisztelet,
- Örökké!</lyrics></song>
+ Örökké!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

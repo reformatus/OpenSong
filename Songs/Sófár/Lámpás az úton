@@ -17,41 +17,32 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
- Lámpás az úton,
- sötétségben fény,
- az éjszakában 
- Te vagy a remény.
- Szavaiddal bátoríts,
- A Lelkeddel gazdagíts,
- Szívemben a béke
- Jézus Te legyél!
+ Lámpás az úton, sötétségben fény,
+ az éjszakában  Te vagy a remény.
+ ||
+ /: Szavaiddal bátoríts, A Lelkeddel gazdagíts,
+ Szívemben a béke Jézus Te legyél! :/
  
 [V2]
- Ahová Te elhívsz,
- oda megyek én,
- Ahová a Lelked vezet,
- meglátom a fényt!
- Ahová Te állítasz,
- Ott adom át önmagam
- Ott fogok Tenéked
- Világítani!
+ Ahová Te elhívsz, oda megyek én,
+ Ahová a Lelked vezet, meglátom a fényt!
+ ||
+ /: Ahová Te állítasz, Ott adom át önmagam
+ Ott fogok Tenéked Világítani! :/
  
 [V3]
- Kövicses az út,
- és néha oly sötét,
- Felsérti a talpamat,
- Ha nem figyelek én.
- De ha felnézek Terád,
- Lábam biztos úton jár.
- Szemed tiszta fénye,
- Szívem menedéke.
+ Kövicses az út, és néha oly sötét,
+ Felsérti a talpamat, Ha nem figyelek én.
+ ||
+ /: De ha felnézek Terád, Lábam biztos úton jár.
+ Szemed tiszta fénye, Szívem menedéke. :/
  
 [V4]
- Tele bár a vállam
- Súlyos terhekkel,
- Tele bár a szívem
- Keserűséggel.
- Fájnak még sebeim,
- Begyógyul majd mindegyik
- Jézus vérével,
- Szeretetével.</lyrics></song>
+ Tele bár a vállam Súlyos terhekkel,
+ Tele bár a szívem Keserűséggel.
+ ||
+ /: Fájnak még sebeim, Begyógyul majd mindegyik
+ Jézus vérével, Szeretetével. :/</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
