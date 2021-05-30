@@ -2,58 +2,37 @@
 <song>
   <title>Ki vagyok én</title>
   <lyrics>[V1]
- Ki vagyok én,
- Hogy a mindenség Ura
- Hallja hangomat,
- Látja gondomat?
- Ki vagyok én,
- Hogy a Hajnalcsillag is
+ Ki vagyok én, Hogy a mindenség Ura
+ Hallja hangomat, Látja gondomat?
+ Ki vagyok én, Hogy a Hajnalcsillag is
  Minden utamon elôttem halad?
-[V2]
+[P]
  Nem azért, aki vagyok, 
  de azért, amit tettél,
  nem azért, amit teszek,
  de azért, Aki Te vagy!
-[V3]
+[C]
  Nézz rám, csak hervadó virágszál, 
  csak porba hulló árnyék,
  csak csepp az óceánban,
  mint párát, visz a szél,
+ ||
  mégis felém fordul arcod,
  Uram, hallod, ha kiáltok,
  És azt mondod nekem:
- „Enyém vagy!
-[V4]
- Ki vagyok én, 
- hogy bár látod bűnömet, 
+ Enyém vagy!
+[V2]
+ Ki vagyok én, hogy bár látod bűnömet, 
  újból rám emeled szent tekinteted?
- Ki vagyok én, 
- hogy a hangod hallhatom,
+ Ki vagyok én, hogy a hangod hallhatom,
  és a vihar csendesül kivül és belül?
-[V5]
- Nem azért, aki vagyok, 
- de azért, amit tettél, 
- nem azért, amit teszek, 
- de azért, Aki Te vagy!
-[V6]
- Nézz rám, csak hervadó virágszál, 
- csak porba hulló árnyék,
- csak csepp az óceánban,
- mint párát, visz a szél,
- mégis felém fordul arcod,
- Uram, hallod, ha kiáltok,
- És azt mondod nekem:
- „Enyém vagy!'
-[V7]
- Kitől félnék, 
- m'ért rettegnék? 
- Tiéd vagyok! 
- Tiéd vagyok!
- X2</lyrics>
+[T]
+ /: Kitől félnék, mért rettegnék? 
+ Tiéd vagyok, tiéd vagyok! :/</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 P C V2 P C T C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
