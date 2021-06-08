@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Áldás</title>
+  <lyrics>[v1]
+ Áldott az Úr, kegyelme örök. Az Őt félőkben gyönyörködik,
+ szeretete megmarad, ajándékait árasztja ránk és gazdagít.
+[c]
+ Az Úr áldjon meg, és vigyázza lépteid!
+ Ő őrizzen erejével, nem kell félned soha,
+ Bármit mond a világ, az Úr vezet szüntelen, karjába zár.
+[v2]
+ Az Úr jósága, hűsége örök, légy te is hű majd hozzá!
+ Szeretni egyedül Ő az, aki megtanít, csak Ő tehet igazzá.</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="body" keep_aspect="true" link="true" background_as_text="false"/>
+</song>
