@@ -24,7 +24,7 @@
 [V11]
  Nem szűnik ez a dal, Itt lenn is megszólal
  Nem szűnik ez a dal, Mely Téged magasztal így szól:  
- Dicsérjétek! Dicsérjétek! Isten Szentjét! Isten Szentjét!
+ /: Dicsérjétek! Dicsérjétek! Isten Szentjét! Isten Szentjét! :/
  
 [V2]
  Nézz most fel a Mennyre kiáltsd és énekeld a megváltás 
@@ -36,8 +36,7 @@
  Hallelujah! Hallelujah! Dicsérjétek! Isten szentjét!
  
 [C]
- Dicsérjétek! Dicsérjétek! Isten Szentjét! Isten Szentjét!
- la la la la la la...</lyrics>
+ Dicsérjétek! Dicsérjétek! Isten Szentjét! Isten Szentjét!</lyrics>
   <linked_songs/>
   <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
 </song>
