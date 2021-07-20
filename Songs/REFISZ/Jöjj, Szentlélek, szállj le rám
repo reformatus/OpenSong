@@ -17,8 +17,11 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
- Jöjj, Szentlélek, szállj le rám,
+ Jöjj, Szentlélek, szállj le ránk,
  reményt hozó Fénysugár!
  Vezesd életem a szűk ösvényen,
  Segítsd levetni régi ruhám!
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
