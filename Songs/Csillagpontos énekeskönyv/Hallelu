@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>43. Hallelu</title>
+  <title>Hallelu</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>C V2 C V2 V2 V3 V2 V3 V2 V3 V2</presentation>
+  <presentation></presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,9 +16,8 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[C]
- Hallelu, Hallelu, Hallelu, Halleluja,
-[V2]
- Áldd az Urat!
-[V3]
- Halleluja,</lyrics></song>
+  <lyrics> Hallelu, Hallelu, Hallelu, Halleluja,
+ Áldd az Urat!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

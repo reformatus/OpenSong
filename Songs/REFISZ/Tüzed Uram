@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Tüzed Uram</title>
+  <title>Tüzed Uram, Jézus</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -17,38 +17,25 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
- Tüzed URam, Jézus,
- Szítsd a szívemben,
- Lángja lobogjon
- elvenebben!
- Ami vagyok, és mind
- ami az enyém,
- Tatsd a kezedben,
- igazi helyén!
+ Tüzed Uram, Jézus, Szítsd a szívemben,
+ Lángja lobogjon elvenebben!
+ Ami vagyok, és mind ami az enyém,
+ Tatsd a kezedben, igazi helyén!
 [C]
- Életem kútja, 
- örök örömem,
- Fény a sötétben,
- csak Te vagy nekem!
- Hallod imám, és
- bármi fenyeget,
- nem hagy el engem,
- tart a Te kezed!
+ Életem kútja, örök örömem,
+ Fény a sötétben, csak Te vagy nekem!
+ Hallod imám, és bármi fenyeget,
+ nem hagy el engem, tart a Te kezed!
 [V2]
- Szorongat a Sátán,
- de Te velem vagy,
- Hű Szabadítóm,
- Aki el nem hagy.
- Ennek a világnak 
- fekete egén
- Lényed a csillag,
- sugarad a fény.
+ Szorongat a Sátán, de Te velem vagy,
+ Hű Szabadítóm, Aki el nem hagy.
+ Ennek a világnak  fekete egén
+ Lényed a csillag, sugarad a fény.
 [V3]
- Jön az örök nap már,
- közeledik Ő,
- Mennyei honba
- hazavinni jő.
- Röpke pillanat, míg
- tart a keserű,
- Krisztus elém jön,
- örök a derű.</lyrics></song>
+ Jön az örök nap már, közeledik Ő,
+ Mennyei honba hazavinni jő.
+ Röpke pillanat, míg tart a keserű,
+ Krisztus elém jön, örök a derű.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
