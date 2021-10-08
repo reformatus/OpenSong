@@ -17,11 +17,15 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
- Hozzád száll az énekem, Olyan jó Téged dicsérni!
- Bűnös volt az életem, Te eljöttél, hogy megments engem.
+ Hozzád száll az énekem,
+ Olyan jó Téged dicsérni!
+ Bűnös volt az életem,
+ Te eljöttél, hogy megments engem.
 [c]
- A mennyből jöttél közénk, Hogy út legyél, Feláldoztad a magad a bűnömért.
- A Golgotán meghaltál, Harmadnap feltámadtál, Uralkodsz mindörökké.</lyrics>
+ A mennyből jöttél közénk, Hogy út legyél,
+ Feláldoztad magad a bűnömért.
+ A Golgotán meghaltál, Harmadnap feltámadtál,
+ Uralkodsz mindörökké.</lyrics>
   <linked_songs/>
   <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
 </song>
