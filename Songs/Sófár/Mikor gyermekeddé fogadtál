@@ -6,14 +6,14 @@
  És ha zuhantam, elkaptál, szárnyaddal takartál,
  Csókoddal, könnyeddel áztattál,
  Dúdolva ringattál álomba
-[c1]
+[p]
  Na na na...
 [v2]
  Aztán egyszer a földre tettél, Szelíden elengedtél,
  és csak kerestem karomban a karod.
  Szememben alakod nem lelem, mért hagytál el engem,
  Istenem, én Istenem.
-[c2]
+[c]
  Ha meginogna lábam: biztos sziklám;
  Ha vacogok: rám hajló meleg sasszárny;
  Ha rám tör a sötét: tüzes, izzó fáklyám;
@@ -26,7 +26,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 C1 C2 V2 C1 C2 V3 C1 C2</presentation>
+  <presentation>V1 P V2 P V3 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>

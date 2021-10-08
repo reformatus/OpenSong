@@ -4,7 +4,7 @@
   <lyrics>[v1]
  Fejemben az kavarog, hogy nem vagyok így elég jó,
  És gyötör a hazugság, hogy megfelelni nem tudok.
- ||
+[v2]
  Több vagyok-e én, mint minden sikerem és bukásom?
  Emlékeztess újra, hogy én ki vagyok, mert nem tudom.
 
@@ -24,17 +24,17 @@
  /: És elhiszem, hogy az vagyok,
  Kinek mondasz, én elhiszem! :/
 
-[v2]
+[v3]
  Énnekem már csak az számít: Te hogy nézel rám, Uram,
  Benned vagyok értékes, csak Benned lelek magamra.
 
-[v3]
+[v4]
  /: Eléd hozom mindenem és leteszem a lábadnál
  Kudarcaim, győzelmeim – mindet neked adom át. :/</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 C1 B1 V2 C2 B2 V3 C2 B2</presentation>
+  <presentation>V1 V2 C1 B1 V3 C1 B1 V4 C2 B2</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
