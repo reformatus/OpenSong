@@ -2,15 +2,14 @@
 <song>
   <title>Út készül</title>
   <lyrics>[V1]
- !!!!TODO!!!!
- Egyeztetni!
- !!!!!!!!!!!!
- ||
- /: Eljöttél, Szentlelked itt jár – imádunk hát, imádunk hát
- Eljöttél, láncok hullnak már – imádunk hát, imádunk hát :/
+ Eljöttél, Szentlelked itt jár – imádunk hát, imádunk hát
+ Eljöttél, láncok hullnak már – imádunk hát, imádunk hát
 [P]
- /: Út készül, csodákat látunk; álmok válnak végre valóra
- Így lesz, Isten köztünk jár! :/
+ Út készül, csodákat látunk, álmok válnak végre valóra
+ Így lesz, Isten köztünk jár!
+ ||
+ Út készül, csodákat látunk, hajnal tépi szét a sötétet,
+ Így lesz, Isten köztünk jár!
 [V2]
  Eljöttél, miénk a megváltás – imádunk hát, imádunk hát
  Eljöttél, meggyógyítottál – imádunk hát, imádunk hát
@@ -32,7 +31,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 P V2 V3 P C B P C V4 V5</presentation>
+  <presentation>V1 V2 P V3 P C B P</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
