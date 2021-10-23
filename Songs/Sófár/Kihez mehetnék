@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Kihez mehetnék?</title>
+  <title>Kihez mehetnék</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V C1 B V C2 B T</presentation>
+  <presentation>V1 C1 B V2 C2 B T B</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,10 +16,11 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V]
+  <lyrics>[V1]
  Kihez mehetnék? Kihez szólhatnék? 
  Ki adhat választ szívem rejtett kérdéseire?
- ||
+
+[V2]
  Kihez futhatnék? Kinek sírhatnék? 
  Ki méltó rá, hogy meghajtsam előtte térdeim?
  
@@ -28,6 +29,7 @@
  nyitott ajtóval fogadsz engem.
  Ó Jézus, Te vagy egyedül, ki hogyha 
  szemembe nézel, látod szívem.
+ ||
  Ó Jézus, Te vagy aki választ adhatsz 
  ki nem mondott kérdéseimre.
  
@@ -36,6 +38,7 @@
  kitárt karjaiddal vársz engem.
  Ó Jézus, Te vagy egyedül, ki látva 
  fájdalmaim együtt sírsz velem.
+ ||
  Ó Jézus, Te vagy egyedül, ki méltó, 
  hogy leborulva imádjon lelkem.
  
