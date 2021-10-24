@@ -1,2 +1,37 @@
-<?xml version="1.0"?>
-<song><title>295. Tartsd meg e gyülekezetnek</title><lyrics></lyrics></song>
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>295. Tartsd meg e gyülekezetnek</title>
+  <lyrics>[V1]
+ Tartsd meg e gyülekezetnek,
+ Melyet törvényid vezetnek,
+ Nagyjait, kicsinyeit;
+ Igazgassad tanítóit,
+ ||
+ Hűséges elöljáróit,
+ Felsőbb és közrendeit.
+ Adjad, hogy szívvel-lélekkel
+ Dicsérhessünk a szentekkel,
+ ||
+ S csak téged tisztelhessünk.
+ És ha eljő amaz óra,
+ Melyben szállunk koporsóba:
+ Mennybe hozzád mehessünk!
+</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
