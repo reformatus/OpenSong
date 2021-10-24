@@ -1,6 +1,8 @@
 # OpenSong
 
-### Az Új Református Énekeskönyv [letölthető itt](https://github.com/reformatus/OpenSong/releases/download/ujrek/Uj.Reformatus.Enekeskonyv.zip).
+## *Az Új Református Énekeskönyv [letölthető itt](https://github.com/reformatus/OpenSong/releases/download/ujrek/Uj.Reformatus.Enekeskonyv.zip).*
+
+---
 
 ### Magyar keresztyén (Református, Sófáros, Refiszes, Golgotás) énekek tára az OpenSong programhoz.
 
