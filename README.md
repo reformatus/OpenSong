@@ -1,6 +1,14 @@
 # OpenSong
 
-## *Az Új Református Énekeskönyv [letölthető itt](https://github.com/reformatus/OpenSong/releases/download/ujrek/Uj.Reformatus.Enekeskonyv.zip).*
+## *Az Új Református Énekeskönyv letöltése*
+Ha nincs szükséged a teljes tárra, letöltheted önmagában is.
+
+### [Letöltés kották nélkül](https://github.com/reformatus/OpenSong/releases/download/ujrek/Uj.Reformatus.Enekeskonyv.zip)
+
+### [Letöltés kottákkal](https://github.com/reformatus/OpenSong/releases/download/ujrek_kotta_pre/Uj.Reformatus.Enekeskonyv.OpenSong.-.kottakkal_pre.zip)
+
+**FIGYELEM!**\
+A refrénes énekeket még helytelenül tartalmazza! Javítása várható 2-3 héten belül.
 
 ---
 
