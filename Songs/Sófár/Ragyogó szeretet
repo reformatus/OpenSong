@@ -18,13 +18,13 @@
   <time_sig></time_sig>
   <lyrics>[V1]
  Ragyogó szeretet,
- Keresem kezedet,
+ Keresem kezedet.
  Keresem finoman,
  Ragyogó kezedet.
  
 [V2]
  Felemel, amikor
- Érzem Te vezetsz!
+ Érzem, Te vezetsz.
  Fogod a kezemet,
  Te adod hitemet.
  
@@ -32,4 +32,7 @@
  Mindenhol jelenvaló,
  Mindenkor szerethető,
  Mindig oly közel levő,
- Ragyogó szeretet, várlak!</lyrics></song>
+ Ragyogó szeretet, várlak!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
