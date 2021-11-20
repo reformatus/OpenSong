@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>161</hymn_number>
-  <presentation></presentation>
+  <presentation>V1 C V1 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -23,5 +23,7 @@
  szívem s ajkam megtisztítottam.
 [C]
  Az Úr előtt állni szüntelen, ezt kívánja lelkem,
- az Ő szépségében gyönyörködni minden időben!
- </lyrics></song>
+ az Ő szépségében gyönyörködni minden időben! </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
