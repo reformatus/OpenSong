@@ -50,9 +50,5 @@
  Minden óra, minden nap a Tiéd!
  </lyrics>
   <linked_songs/>
-<<<<<<< HEAD:Songs/Refisz/Te vagy az, Akiből élet árad
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
-=======
   <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
->>>>>>> dc590bca205941b9313f0104d1c1d8571bdd7354:Songs/REFISZ/Te vagy az, Akiből élet árad
 </song>
