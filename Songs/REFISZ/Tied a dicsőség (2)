@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>S 217</hymn_number>
-  <presentation>V V C C</presentation>
+  <presentation></presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -19,10 +19,14 @@
   <lyrics>[V]
  Tied a dicsőség, és imádás
  Felemeljük kezeinket,
- így dícsérjük szent Neved!
+ és dicsérjük szent Neved!
 [C]
  Ó hatalmas kezed nagy csodákat tesz,
  Veled senki nem ér fel,
  Veled senki nem ér fel!
+[T]
  Ó hatalmas!
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
