@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Rejts most el</title>
-  <lyrics>[V1]
- Rejts most el a szárnyad alá
- Erős kézzel takarj be engem
-[C]
- Tenger tombol, zúg, süvít a szél
- Te emelsz fel a vihar fölé
- Uralkodsz hullámok habjain
- Szívem nem fél, Benned remél
-[V2]
- Csak Istenben bízz, én lelkem
- Mert Ő él, nagyobb mindennél
-[T]
- Szívem nem fél, Benned remél
- </lyrics>
+  <title>Áldott légy, te betlehemi Gyermek</title>
+  <lyrics> /: Áldott légy, te betlehemi Gyermek,
+ Áldott légy, mert elhoztad a fényt,
+ Adj élő bizalmat, reményt. :/</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 C V2 C T</presentation>
+  <presentation></presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
