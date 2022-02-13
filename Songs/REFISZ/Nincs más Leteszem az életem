@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Nincs más (Enternety)</title>
+  <title>Nincs más</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -18,19 +18,22 @@
   <time_sig></time_sig>
   <lyrics>[V1]
  Leteszem az életem, csak te vagy az egyetlen.
- Minden percben szügségem va rád.
+ Minden percben szükségem va rád.
  Futok hozzád minden nap.
- Tudom jól,Te el nem hagysz.
+ Tudom jól, Te el nem hagysz.
  Te vagy minden amiről álmodtam.
 [C]
- Nincs más ,csak Jézus,Ő az akiért a szivem dobban.
+ /: Nincs más, csak Jézus, Te vagy, akiért a szívem dobban. :/
 [V2]
- Te vagy minden mindenben,Te vagy Úr a szivemben.
+ Te vagy minden mindenben, Te vagy Úr a szívemben.
  Bármit nézek szemem Téged lát.
- Soha meg nem változol,Te uralkodsz mindenhol.
+ Soha meg nem változol, Te uralkodsz mindenhol.
  Te vagy egyedül a hatalmas Király.
 [V3]
- Te vagy az út.Te vagy a cél
- Hitben járok,futok a győzelemért.
- A szivem érted él.
- </lyrics></song>
+ Te vagy az út, Te vagy a cél
+ Hitben járok, futok a győzelemért.
+ A szívem érted él.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

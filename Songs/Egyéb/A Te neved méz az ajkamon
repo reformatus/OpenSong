@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Tisztíts meg, újíts meg</title>
+  <title>A Te neved méz az ajkamon</title>
+  <lyrics> /: A Te neved méz az ajkamon
+ A Te Lelked forrás a szívemnek
+ A Te Igéd lámpás a lábam előtt
+ Szeretlek Jézus, szeretlek :/</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -14,12 +18,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics> Tisztíts meg! Újíts meg!
- Szentlelked töltsön be!
- Frissítsd fel népedet!
- Hozz ébredést a szívekbe!</lyrics>
-  <linked_songs/>
   <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
 </song>
