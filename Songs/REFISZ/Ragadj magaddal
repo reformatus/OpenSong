@@ -19,17 +19,14 @@
   <lyrics>[V1]
  Kiválasztottál, új szívet adtál
  ismertesd meg velem utjaidat
- Vezess engem Szellemed által
+ Vezess engem Szentelked által
  hogy hirdethessem a Te nagy Nevedet
  
 [C]
- Ragadj magaddal, minden nap, úgy kérlek
+ /: Ragadj magaddal, minden nap, úgy kérlek
  Emelj fel szent trónod elé
- Hadd lakhassam házadban
- Ragadj magaddal, minden nap, úgy kérlek
- Emelj fel szent trónod elé
- Hadd lakhassam házadban
- 
+ Hadd lakhassam házadban :/ 
+
 [V2]
  Oltalmam vagy, pajzsom és váram
  Te tartasz meg, tudom, közel vagy
@@ -37,5 +34,8 @@
  Maradj velem, légy mindig enyém
  
 [B]
- Vezess drága Szent Szellem
- Az igazság ösvényére, hadd legyek fény</lyrics></song>
+ Vezess drága Szentlélek
+ Az igazság ösvényére, hadd legyek fény</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

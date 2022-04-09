@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Mindenre van erőm</title>
+  <title>Teréz anya imádsága</title>
+  <lyrics> Te tudod, Uram, hogy nem törődőm a fegyverekkel. 
+ Egyetlen vágyam: a világnak békét hirdető eszközöd lenni. 
+ ||
+ Mert tudom, ahol béke honol, a fegyverek fölöslegessé válnak. 
+ Béke uralkodik, az emberek képesek egymást szeretni úgy, ahogy te szereted őket. 
+ ||
+ Adj békét, Uram, s tedd fölöslegessé a fegyvereket e csodálatos világban.
+ Ámen. </lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -14,19 +22,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
- Mindenre van erőm a Krisztusban, 
- aki megerősít.
- Mindenre van erőm a Krisztusban, 
- aki megerősít.
- 
-[C]
- Nem engedi, hogy lábad inogjon, 
- nem engedi, hogy lábad inogjon, 
- Nem szunnyad a te őriződ, 
- nem alszik a te megmentőd.</lyrics>
-  <linked_songs/>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>

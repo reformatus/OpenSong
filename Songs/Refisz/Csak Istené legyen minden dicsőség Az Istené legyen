@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Csak Istené legyen minden dicsőség</title>
-  <lyrics> Csak Istené legyen minden dicsőség,
- Örvendezzen az Úr az Ő népében.
- Egész életemben, Uram, dícsérlek,
- áldom a Te szent neved, amíg élek.
- ||
- Csak Istené legyen minden dicsőség,
- Örvendezzen az Úr az Ő népében.
- Egész életemmel Uram dícsérem,
- Áldom az Ő szent nevét, amíg élek.
- ||
- Az Istené legyen minden dicsőség,
- Örvendezzen az Úr teremtményében.
- Egész életemmel Uram dícsérem,
- Áldom az Ő szent nevét, amíg élek.</lyrics>
+  <lyrics>[v1]
+ Csak Istené legyen minden dicsőség, Örvendezzen az Úr az Ő népében.
+ Egész életemben, Uram, dícsérlek, áldom a Te szent neved, amíg élek.
+[v2]
+ Csak Istené legyen minden dicsőség, Örvendezzen az Úr az Ő népében.
+ Egész életemmel Uram dícsérem, Áldom az Ő szent nevét, amíg élek.
+[v3]
+ Az Istené legyen minden dicsőség, Örvendezzen az Úr teremtményében.
+ Egész életemmel Uram dícsérem, Áldom az Ő szent nevét, amíg élek.</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>

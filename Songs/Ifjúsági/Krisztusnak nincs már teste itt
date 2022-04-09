@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Mindenre van erőm</title>
+  <title>Krisztusnak nincs már teste itt</title>
+  <lyrics>[v]
+ Krisztusnak nincs már teste itt,
+ Sem kéz, sem láb már csak tiéd.
+[c]
+ Tiéd a szem, amellyel lát, tiéd a láb, amellyel jár,
+ Tiéd a kéz, mely által a világ áldást nyer,
+ Tiéd a kéz!</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -14,19 +21,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
- Mindenre van erőm a Krisztusban, 
- aki megerősít.
- Mindenre van erőm a Krisztusban, 
- aki megerősít.
- 
-[C]
- Nem engedi, hogy lábad inogjon, 
- nem engedi, hogy lábad inogjon, 
- Nem szunnyad a te őriződ, 
- nem alszik a te megmentőd.</lyrics>
-  <linked_songs/>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>

@@ -17,18 +17,15 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
- Megkötöm magamat Isten kötelével.
- Megkötöm szívemet, orcád Igéjével.
- Szabadságom, Uram, Néked visszaadom,
- Csak a szeretetre formáld át tudatom!
+ Megkötöm magamat Isten kötelével. Megkötöm szívemet, ország Igéjével.
+ Szabadságom, Uram, Néked visszaadom, Csak a szeretetre formáld át tudatom!
 [V2]
- Magamat megkötni gyenge vagyok Uram.
- Segítő kéz nélkül, nehéz járnom utam.
- Atyám erősíts meg, bennünket a hitben,
- Életünk példázza: szeretet az Isten!
+ Magamat megkötni nehéz nekem Uram. Segítő kéz nélkül, nehéz járnom utam.
+ Atyám erősítsd meg gyermeked a hitben, Életem példázza: szeretet az Isten!
 [V3]
- Megkötöm magamat baráti kötéllel,
- Testvéri közösség tartó erejével.
- Testvér, ha elold’nám kettős kötelékem,
- Szembesíts magammal, légy felelős értem!
- </lyrics></song>
+ Megkötöm magamat baráti kötéllel, Testvéri közösség tartó erejével.
+ Testvér, ha elold’nám kettős kötelékem, Szembesíts magammal, légy felelős értem!
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

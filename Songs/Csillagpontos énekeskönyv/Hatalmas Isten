@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>44-Hatalmas Isten</title>
+  <title>Hatalmas Isten</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -19,10 +19,10 @@
   <lyrics>[v1]
  Hatalmas Isten! Népek közé szórva, 
  "Tebenned bíztunk eleitől fogva"! 
- Mikor másunk nem volt, 
- csak könny és zsoltár, 
+ Mikor másunk nem volt, csak könny és zsoltár, 
+ ||
  Otthont keresve hajlékunk Te voltál. 
-  Szólj, ötágú síp, zengj, magyar ének, 
+ Szólj, ötágú síp, zengj, magyar ének, 
  Adj hálát az ég nagy Istenének.
  
 [v2]
@@ -30,6 +30,7 @@
  Találjon e nép végre önmagára; 
  Köszönjön meg mindent
  a „védő kar”-nak, 
+ ||
  S légyen testvére magyar a magyarnak! 
  Szólj, ötágú síp, zengj, magyar ének, 
  Adj hálát az ég nagy Istenének.
@@ -39,8 +40,12 @@
  Kegyelmes Atyánk! Népek közé szórva, 
  „Tebenned bíztunk eleitől fogva”! 
  Add: éljünk egymásért és senki ellen, 
+ ||
  Bárhol e földön, de Isten-közelben! 
  Szólj, ötágú síp, zengj, magyar ének, 
  Adj hálát az ég nagy Istenének.
  
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
