@@ -4,13 +4,14 @@
   <lyrics>[v1]
  Kegyelmed elég, több mint elég, Igédben bízom én
  Így várok Rád, vonj közel megint, Szentlelked újítson meg
-[c]
+[p1]
  Leborulok előtted, leborulok előtted és imádlak Téged
 [v2]
- Jelenlétedben világíts nekem, szavad hatalmával helyreálltam, szabaddá lettem
- Szentlelked segít engem
+ Jelenlétedben világíts nekem, szavad hatalmával helyreálltam,
+ Szabaddá lettem, Szentlelked segít engem
+[p2]
  Leborulok lábadhoz, leborulok lábadhoz és imádlak Jézus
-[b]
+[C]
  /: Önként adtál oda mindent, életedet a kereszten, mily nagy szeretet
  Mit adott nekünk a mi Istenünk :/
  ||
@@ -19,7 +20,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 C V2 B C</presentation>
+  <presentation>V1 P1 V2 P2 C P1 P2</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
