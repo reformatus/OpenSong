@@ -1,5 +1,9 @@
 # OpenSong
 
+## [Teljes tár letöltése](https://github.com/reformatus/OpenSong/archive/refs/heads/master.zip)
+
+---
+
 ## *Az Új Református Énekeskönyv letöltése*
 Ha nincs szükséged a teljes tárra, letöltheted önmagában is.
 
