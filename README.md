@@ -7,10 +7,6 @@
 ## *Az Új Református Énekeskönyv letöltése*
 Ha nincs szükséged a teljes tárra, letöltheted önmagában is.
 
-### [Letöltés kották nélkül](https://github.com/reformatus/OpenSong/releases/download/ujrek/Uj.Reformatus.Enekeskonyv.zip)
-
-### [Letöltés kottákkal](https://github.com/reformatus/OpenSong/releases/download/ujrek_kotta_pre/Uj.Reformatus.Enekeskonyv.OpenSong.-.kottakkal_pre.zip)
-
 ### [Diákra bontott kottaképek letöltése](https://github.com/reformatus/convert-scripts/releases/download/ujrek_kottak/ujrek_kottak.zip)
 
 ---
