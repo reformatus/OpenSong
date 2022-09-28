@@ -11,9 +11,6 @@ Ha nincs szükséged a teljes tárra, letöltheted önmagában is.
 
 ### [Letöltés kottákkal](https://github.com/reformatus/OpenSong/releases/download/ujrek_kotta_pre/Uj.Reformatus.Enekeskonyv.OpenSong.-.kottakkal_pre.zip)
 
-**FIGYELEM!**\
-A refrénes énekeket még helytelenül tartalmazza! Javítása várható 2-3 héten belül.
-
 ### [Diákra bontott kottaképek letöltése](https://github.com/reformatus/convert-scripts/releases/download/ujrek_kottak/ujrek_kottak.zip)
 
 ---
