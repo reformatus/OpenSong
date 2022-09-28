@@ -3,7 +3,7 @@
   <title>Uram, szent vagy</title>
   <lyrics>[V1]
  Uram szent vagy, Hatalmas vagy,
- Te vagy méltó A dícséretre
+ Te vagy méltó A dicséretre
  Veled járok, Rád tekintek, 
  És szeretlek Minden napon.
 [C1]
@@ -15,17 +15,21 @@
  ||
  Megmentő Isten vagy, kegyelmed végtelen, uralkodsz örökké az ég és föld felett,
  Te vagy alfa, omega, kezdet és vég, Te vagy a Messiás, megmentő barát, ki véd
-[K-L]
+[K]
  Csak te vagy az Úr és a nagy Király, Mindenható, ami kősziklánk,
+ |
  Új dalt zengek és áldom Királyom, ki méltó,
  ||
  Te vagy Immánuel, hatalmas Isten, békesség Ura, megfeszített Bárány,
+ |
  Csak rá nézek, Őt áldom, Leborulva Imádom.
  ||
  Megmentő Isten vagy, kegyelmed végtelen, uralkodsz örökké az ég és föld felett,
+ |
  Új dalt zengek és áldom Királyom, ki méltó,
  ||
  Te vagy alfa, omega, kezdet és vég, Te vagy a Messiás, megmentő barát, ki véd
+ |
  Csak rá nézek, Őt áldom, Leborulva Imádom.
 [V3]
  Te vagy a Megváltóm és az életem Tiéd! </lyrics>
@@ -34,7 +38,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>

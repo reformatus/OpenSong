@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Világosságom és segítségem Te vagy</title>
+  <title>Világosságom és segítségem</title>
   <lyrics>[v1]
  Világosságom és segítségem Te vagy, Uram:
  kitől félnék?
  Életem ereje csak Te vagy:
  miért rettegnék?
 [v2]
- Megóvsz engem a veszedelemben, elrejtesz szárnyaid alá…
+ Megóvsz engem a veszedelemben, elrejtesz szárnyaid alá.
 [c]
  Csak egyetlen vágyam van,
  Hogy lakhassam házadban életem idején.
  Lábadnál hadd időzzek el,
- És gyönyörködjek Benned, amíg csak élek én!
+ És gyönyörködjem Benned, amíg csak élek én!
 [v3]
  Felemelted fejem, s mikor hívtalak, Te meghallgattál.
  Sziklára állítottál, minden bajból kimentettél, ezért szívem Téged áld!
 [v4]
- Erős karoddal vezetsz, s mindenben győztessé teszel…
+ Erős karoddal vezetsz, s mindenben győztessé teszel.
 [b]
- Kezem kitárom Feléd, mindenem a Tiéd,
- Szívemből bízok benned, Te megtartod életemet.
+ /: Kezem kitárom Feléd, mindenem a Tiéd,
+ Szívemből bízok benned, megtartod életemet.
  ||
- Hűséged pajzsom, s páncélom, vigyázol reám!
- Ha ellenség támadna meg, tudom, (Te) mellettem állsz! 2x
+ Hűséged pajzsom, páncélom, vigyázol reám!
+ Ha ellenség támadna meg, tudom, Te mellettem állsz! :/
 [t]
  Örökké...</lyrics>
   <author></author>
@@ -31,7 +31,7 @@
   <hymn_number></hymn_number>
   <presentation>V1 V2 C V3 V4 C T B C T</presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>

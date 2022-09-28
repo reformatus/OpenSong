@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -25,6 +25,7 @@
  Tedd Te a szívem hálássá,
 .am         H7      em
  Hogy neked szolgáljon!
+ ||
 .D       G        C     G
  Bárhová küldesz, ajkamról
 .hm         C    G    H7
@@ -38,7 +39,11 @@
  Lelkedet úgy kérem,
  Tedd Te a szívem, tedd késszé
  bízni a testvérben!
+ ||
  Sejteni engedd, mit érez,
  boldog-e, szenved-é?
  Vígy közelebb a testvérhez,
- népedet tedd eggyé!</lyrics></song>
+ népedet tedd eggyé!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
