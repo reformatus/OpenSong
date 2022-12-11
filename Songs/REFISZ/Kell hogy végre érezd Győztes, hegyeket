@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>11-Kell hogy végre érezd</title>
+  <title>Kell hogy végre érezd</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -24,12 +24,12 @@
  ahogy a megbocsátás
  átformál egy népet
 [C1]
- Megváltó, Üdvösség Szerzője
- Király és Szabadító 
- ítél és megsegít;
  Győztes; hegyeket mozdít el,
  mert Ő legyőzte a sírt, 
  Ő legyőzte a sírt!
+ Megváltó, Üdvösség Szerzője
+ Király és Szabadító 
+ ítél és megsegít;
 [V2]
  Ha hibáztam, Te védj meg; 
  ölelj át ha félek, 
@@ -37,16 +37,17 @@
  Meghajlok előtted, 
  szívemből követlek
  csak Érted élek!
- (Érted élek)
 [C2]
- Győztes; hegyeket mozdít el 
- Király és Szabadító 
- ítél és megsegít
- Megváltó, Üdvösség Szerzıje
- mert Ő legyőzte a sírt, 
- Ő legyőzte a sírt!
+ Győztes, ki hegyeket mozdít el 
+ Király és Szabadító, aki ítél és megsegít
+ Megváltó, Üdvösség Szerzője
+ mert legyőzted a sírt, 
+ Jézus, legyőzted a sírt!
 [B]
  Életünkkel mondjuk el, hogy élsz;
  Hirdetjük 
  Megváltónk dicsőségét!
- Jézus!</lyrics></song>
+ Jézus!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

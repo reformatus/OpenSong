@@ -21,7 +21,7 @@
  Csak Ő  és      én, nem kell más, utána vágyom
 .          A   E/G#      D                  Hsus4  H  
  Jelenlétében csodálom szépségét 
-[v2]
+[b1]
 .                                E                           A  
  Soha nem leszek többé az, aki voltam rég
 .             C#m   H        A                  H  
@@ -29,11 +29,19 @@
 .                    E                             A  
  Szívem Érte ég és bármit megtennék
 .          C#m  H             E  
- Hogy házában maradjak</lyrics>
+ Hogy házában maradjak
+[c2]
+ Csak Te és én, nem kell más, utánad vágyom
+ Jelenlétedben csodálom szépséged
+[b2]
+ Soha nem leszek többé az, aki voltam rég,
+ Mert Te rám találtál, s megfordult a világ
+ Szívem Érted ég és bármit megtennék,
+ Hogy házadban maradjak.</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 C1 V2 C1</presentation>
+  <presentation>V1 C1 B1 C1</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>

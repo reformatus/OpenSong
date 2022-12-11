@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>120-Úr Jézus Megváltóm</title>
+  <title>Úr Jézus Megváltóm</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -31,6 +31,10 @@
  adj dicsőséget a Felségesnek,
  hegyek hódoljatok, zúgj tenger
  a mi Urunk nagy nevének!
+ ||
  Éneklem hűséged és kegyelmed,
  örökké szeretlek én Istenem,
- semmi sem ér fel a Te jelenléteddel</lyrics></song>
+ semmi sem ér fel a Te jelenléteddel!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

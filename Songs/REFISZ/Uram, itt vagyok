@@ -17,49 +17,38 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
-.A       E        fism
  __Uram, itt vagyok, 
-.                cism7   fism7
  változtasd meg szívemet!
-.           E     D
  Mert tőled árad rám
-.   E    fism   E
  a kegyelem!
-.A          E    fism
+ ||
  ___Uram, beismerem, 
-.                    cism7  fism7
  hogy gyengeség van még bennem,
-.          E   D    E
  De van szabadító: 
-.             A
  féltő szereteted!
 [C1]
-.D        E
  Jöjj közel, 
-.             D   A
  tarts jelenlétedben,
-.D       E
  Áraszd rám 
-.             A
  szent kenetedet! 
-.   D        E
+ ||
  S ahogy várlak,
-.                D    A
  felkelek, mint sasmadár,
-.          E     fism
  és szárnyalok veled, 
-.             E     D
  a te Szentlelked vezet
-.   E7           A
  a mennyhez közelebb!
 [V2]
  Nyisd meg értelmem, 
  adj új látást nekem,
  Tudjam meg, hogy szeretsz, 
  és bennem élsz!
+ ||
  Uram, taníts, vezess,
  jóságodra emlékeztess,
  Erős jobbod legyen 
  mindennap velem!
  
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

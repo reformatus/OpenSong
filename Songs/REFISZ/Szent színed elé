@@ -17,13 +17,26 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
- Szent színed elé járulunk, hogy hódoljunk Neked,
- hálával áldozzunk, magasztaljuk nagy neved.
- Mert megmentetted népedet, új életet adtál,
- fogadd el szívünk buzgó szeretetének dalát!
+ Szent színed elé járulunk,
+ hogy hódoljunk Neked,
+ hálával áldozzunk,
+ magasztaljuk nagy neved.
+ ||
+ Mert megmentetted népedet,
+ új életet adtál,
+ fogadd el szívünk
+ buzgó szeretetének dalát!
 [C]
- Te vagy az Istennek Báránya, a Magasságos Fia,
- aki kilépett a sírból, a halál nem fogott rajta.
- Szabadítónk lettél nékünk, Benned van reményünk,
- nincs másban üdvösség, Tied minden dicsőség!
- </lyrics></song>
+ Te vagy az Istennek Báránya,
+ a Magasságos Fia,
+ aki kilépett a sírból,
+ a halál nem fogott rajta.
+ ||
+ Szabadítónk lettél nékünk,
+ Benned van reményünk,
+ nincs másban üdvösség,
+ Tied minden dicsőség!
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

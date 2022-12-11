@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Szent Lélek Isten</title>
+  <title>Szentlélek Isten</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -31,4 +31,7 @@
  Jöjj égi erő, jöjj, lelkesítő,
  jöjj, szent, tiszta láng:
  tüzet fogjon e fásult világ!
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
