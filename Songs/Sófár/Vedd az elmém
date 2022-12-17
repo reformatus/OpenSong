@@ -28,7 +28,7 @@
  Vonj magadhoz,
  Vonj magadhoz.
  
-[B1]
+[C1]
  Vedd az elmém...
  
 [V3]
@@ -43,21 +43,24 @@
  Szólj most hozzám,
  Szólj most hozzám!
  
-[B2]
+[C2]
  Vedd az elmém
  Vedd a szívem,
  Egy vágy legyen lelkemben,
  Hogy még jobban ismerjen!
  
-[C1]
+[B1]
  Mint a zúgó szél,
  járjad át lelkem! 
  Készíts utat,
  készíts utat bennem!
  
-[C2]
+[B2]
  Mint a mennydörgés
  rázzad föl lelkem!
  Készíts utat,
  készíts utat bennem!
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

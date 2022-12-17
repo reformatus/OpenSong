@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V C B1 B2 C</presentation>
+  <presentation></presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,10 +16,12 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V]
- /: Amíg tiéd nem lesz mindenem, 
+  <lyrics>[V1]
+ Amíg tiéd nem lesz mindenem, 
  harcolsz értem.
- ||
+ Amíg tiéd nem lesz mindenem, 
+ harcolsz értem.
+[V2]
  Jöjj, légy karomra tett örök pecsét, pecsét a szívemen!
  Mint a halál, szerelmed oly erős,
  szenvedélyed mély, akár a sír.
