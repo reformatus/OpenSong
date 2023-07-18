@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Jézus Messiás</title>
+  <title>Az ablakon túl</title>
+  <lyrics> </lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 C V2 C</presentation>
+  <presentation></presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -17,22 +18,5 @@
   <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
- Jézus, Messiás,
- Neve minden név fölött való.
- Ő a kezdet és a vég,
- Az első és az utolsó.
-
-[C]
- És aki hallja, az mondja, hogy: Jövel! 
- Aki szomjas, jöjjön el.
- És aki akarja, mind vegye el,
- Az élet vizét ingyen.
- 
-[V2]
- Jézus, Messiás,
- Dávid gyökere, ága.
- Izrael reménysége,
- Ama fényes hajnali csillag.</lyrics>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>

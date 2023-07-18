@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 V2 C2 C1 V2 C2 C3</presentation>
+  <presentation></presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,13 +16,13 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[c1]
+  <lyrics>[V1]
  Mindennap veled leszek, fogom a kezed, csak őrizd meg mindig tisztán a szíved! 
-[v2]
+[V2]
  El nem hagylak téged, el nem távozom, kiáltasz hozzám, és én meghallgatom.
-[c2]
+[C]
  Hát ne félj, én népem, hisz tiéd az örökségem. Ne félj és ne lankadj el, hisz neked győznöd kell!
-[c3]
+[T]
  Hát kell!
  </lyrics>
   <linked_songs/>

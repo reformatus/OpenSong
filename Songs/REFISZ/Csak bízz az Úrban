@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 C V2 C B C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -30,7 +30,7 @@
  és nem enged el,
  szárnyain hordoz, 
  és egyenes úton vezet.	
-[C1]	
+[C]	
  Vele minden magas falon átlépek,
  átfutok az ellenség táborán.
  a víz nem borít el és a tűz nem éget meg, 
@@ -40,4 +40,7 @@
  miért csüggednél tovább,
  bízzál Istenben, nincs olyan vihar,
  amin Ő nem vinne át.
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

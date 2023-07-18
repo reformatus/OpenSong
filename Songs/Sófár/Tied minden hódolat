@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Hatalmas vagy</title>
-  <lyrics>[V1]
- /: Hatalmas vagy, erős Isten,
- Szent és dicső senki más nincsen!
- Feltámadtál, és Te győztél.
- A halálon uralmat vettél. :/
-[V2]
- /: Halleluja, örvendezzünk hát!
- Halleluja, örvendezzünk hát! :/
-[T]
- Halleluja, örvendezzünk hát!
- Halleluja, örvendezzünk hát!
- Hatalmas vagy!</lyrics>
+  <title>Tied minden hódolat</title>
+  <lyrics>[V1] 
+ Minden szent és angyal
+ trónodhoz borul,
+ minden vén megáll,
+ és az Isten Bárányát á1dják
+ Tied minden hódolat,
+
+[C]
+ Tied minden hódolat,
+ mert minden általad
+ és érted lett, Uram,
+ Tied minden dicsőség.
+
+[B]
+ Hajnalban, esténként
+ (a) jó illat száll,
+ soha sem szűnik meg.
+ (és)csak Hozzád száll.</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>

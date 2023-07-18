@@ -4,9 +4,9 @@
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 C B1 B2 C</presentation>
+  <presentation>T C V1 C B1 B2 C</presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -16,7 +16,9 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
+  <lyrics>[T]
+ Csodálatos Isten, dicsőséges bárány, fogadd el szívem imádatát!
+[V1]
  Eljött hozzám, mikor még bűnben éltem, S felnyitotta a szemem.
  Szolgává lett, magát megalázva Bűneimért szenvedett.
 [C]
