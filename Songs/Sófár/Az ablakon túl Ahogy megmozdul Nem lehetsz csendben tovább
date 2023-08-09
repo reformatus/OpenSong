@@ -12,7 +12,7 @@
  Minden lány és fiú gyermek
  Hangja áttör az éjjelen
 [C]
- Fedd hát fel, mi van benned
+ Fedd fel hát, mi van benned
  Nem lehetsz csendben tovább
  Az ablakon túl minden ember
  Csak a te fényedre vár
@@ -48,7 +48,7 @@
   <hymn_number></hymn_number>
   <presentation>V1 C V2 C B C</presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>

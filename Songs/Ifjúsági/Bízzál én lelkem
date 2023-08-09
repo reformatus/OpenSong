@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Bízzál én lelkem</title>
+  <title>Bízzál, én lelkem</title>
   <lyrics>[v1]
  Miért csüggedsz én lelkem?
  Miért csüggedsz énbennem?
  ||
  Hiszen hálát adsz még az Úrnak,
  mikor a nehéz idők elmúlnak
+ ||
  Miért csüggedsz  én lelkem?
  Miért csüggedsz énbennem?
 
 [v2]
  Miért aggódsz én lelkem?
- Miért aggódsz én bennem?
+ Miért aggódsz énbennem?
  ||
  Hiszen hálát adsz még az Úrnak,
  mikor a gondjaid elfutnak
+ ||
  Miért aggódsz én lelkem?
  Miért aggódsz énbennem?
 
@@ -31,13 +33,19 @@
  ||
  Hiszen hálát adsz még az Úrnak,
  mikor az igazak mind szabadulnak
+ ||
  Miért háborogsz lelkem?
  Miért háborogsz bennem?
 
 [b]
- /: Hiszen hálát adsz még az Úrnak, mikor a nehéz idők elmúlnak
- Hiszen hálát adsz még az Úrnak, mikor a gondjaid elfutnak
- Hiszen hálát adsz még az Úrnak, mikor az igazak mind szabadulnak :/
+ /: Hiszen hálát adsz még az Úrnak,
+ mikor a nehéz idők elmúlnak
+ ||
+ Hiszen hálát adsz még az Úrnak,
+ mikor a gondjaid elfutnak
+ ||
+ Hiszen hálát adsz még az Úrnak,
+ mikor az igazak mind szabadulnak :/
  ||
  Bízzál lelkem Istenben!
  Bízzál lelkem Istenben!
@@ -48,7 +56,7 @@
   <hymn_number></hymn_number>
   <presentation>V1 V2 C V3 C B C</presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>

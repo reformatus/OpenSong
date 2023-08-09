@@ -1,37 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Gyönyörű nagy neved</title>
+  <title>Gyönyörű, nagy Neved</title>
   <lyrics>[V1]
- A világ kezdetén ott voltál, egy voltál az Istennel.
- A teremtés rejtette arcod, míg Megváltóként jöttél el.
+ A világ kezdetén ott voltál,
+ egy voltál az Istennel.
+ A teremtés rejtette arcod,
+ míg Megváltóként jöttél el.
 [C1]
- Milyen gyönyörű nagy neved, gyönyörű nagy Neved
- Úr Jézus Krisztus, Nagy Király.
- Milyen gyönyörű nagy neved, minden név felett,
- Milyen gyönyörű nagy neved, ó drága Jézus!
+ Milyen gyönyörű nagy Neved, gyönyörű nagy Neved
+ Úr Jézus Krisztus, Nagy Király!
+ ||
+ Milyen gyönyörű nagy Neved:
+ minden név felett,
+ Milyen gyönyörű nagy Neved,
+ ó, drága Jézus!
 [V2]
- A Mennyből földre jöttél értünk, vállaltad a keresztfát.
- Bűnömnél nagyobb szerelmed, semmi nem választ el már
+ A Mennyből földre jöttél értünk,
+ vállaltad a keresztfát.
+ Bűnömnél nagyobb szerelmed,
+ semmi nem választ el már.
 [C2]
- Milyen csodás nagy neved, csodás nagy Neved
- Úr Jézus Krisztus, Nagy Király.
- Milyen csodás nagy neved, minden név felett,
- Milyen csodás nagy neved, ó drága Jézus!
+ Milyen csodás nagy Neved, csodás nagy Neved
+ Úr Jézus Krisztus, Nagy Király!
+ ||
+ Milyen csodás nagy Neved:
+ minden név felett,
+ Milyen csodás nagy Neved,
+ ó, drága Jézus!
 [B]
  Üres a sírbolt, megnyílt a kárpit,
- Hol a fullánkod bűn, halál?
+ Hol a fullánkod, bűn, halál?
  Ujjong a menny is, Téged dicsőít,
- Mert újra élsz, feltámadtál.
+ Mert újra élsz, feltámadtál!
  ||
- Egyedül méltó, drága Megváltó
+ Egyedül méltó, drága Megváltó,
  örök Király és Isten vagy.
  Tiéd az ország, minden dicsőség
  Nevedre minden térdet hajt.
 [C3]
- Milyen erős nagy neved, erős nagy Neved
- Úr Jézus Krisztus, Nagy Király.
- Milyen erős nagy neved, minden név felett,
- Milyen erős nagy neved, ó drága Jézus!
+ Milyen erős nagy Neved, erős nagy Neved
+ Úr Jézus Krisztus, Nagy Király!
+ ||
+ Milyen erős nagy Neved:
+ minden név felett,
+ Milyen erős nagy Neved,
+ ó drága Jézus!
+ ||
+ Ó, drága Jézus!
 [T]
  Egyedül méltó, drága Megváltó
  örök Király és Isten vagy.
@@ -42,7 +57,7 @@
   <hymn_number></hymn_number>
   <presentation>V1 C1 V2 C2 B C3</presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>

@@ -2,49 +2,51 @@
 <song>
   <title>Krisztus győztesekké tett</title>
   <lyrics>[V1]
- Hogyha elhagy szívem már
- Ó, Te térsz be csak hozzám 
- Erőforrás
+ Hogyha elhagy szívem már,
+ Ó, Te térsz be csak hozzám.
+ Erőforrás –
  Nincs senki más,
  Kit lelkem vár!
 
 [V2]
  Átkot törő győzelmed
- Lángra gyújtja szívemet
+ Lángra gyújtja szívemet.
  Zúghat az ár,
  Felnézek már
  A mennyekre!
 
-[C1]
- Krisztus, győztesekké tett minket
+[P]
+ Krisztus győztesekké tett minket,
  Lába alá vetett már mindent!
 
-[c2]
+[C]
  Leszámolunk a szégyenünkkel,
  Dacolunk minden ellenséggel!
- Lángod a lelkünkben olthatatlan
- Erőd, mi átjár leronthatatlan
+ ||
+ Lángod a lelkünkben olthatatlan,
+ Erőd, mi átjár leronthatatlan:
+ ||
  Mi Bástyánk, Pajzsunk, Győztesünk!
 
 [V3]
- Éjsötétbe zengem én
- Ő feltámadt már és él!
+ Éjsötétbe zengem én:
+ "Ő feltámadt már és él!"
  Ki bennünk van,
  hatalmasabb
  mindeneknél!
 
 [V4]
  Vissza nem vonulhatunk,
- (A) Mennybe szabad már utunk
+ (A) Mennybe szabad már utunk.
  Kihirdetjük:
  Reménységünk
  Te vagy, Urunk!
 
-[B1]
- Nincs mi már ne lehetne
- Lánc, mi el ne törhetne
+[B]
+ Nincs mi már ne lehetne,
+ Lánc, mi el ne törhetne.
  Urunk, veled mi győztünk már!
-[b2]
+ ||
  Szívünket meghódító,
  Minden éjt eloszlató,
  Urunk, veled mi győztünk már!
@@ -53,7 +55,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 V2 C1 C2 V3 V4 C1 C2 B1 B2</presentation>
+  <presentation>V1 V2 P C V3 V4 P C B</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>

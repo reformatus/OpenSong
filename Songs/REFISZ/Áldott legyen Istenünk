@@ -17,8 +17,8 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[C]
- Áldott legyen
- Istenünk mindörökké!
+ /: Áldott legyen Istenünk
+ mindörökké! :/
 [V1]
  Dicsérjétek szent templomában,
  dicsérjétek szentélyében!
@@ -39,4 +39,7 @@
  dicsérjétek hangos tapssal!
  Örökké él az Úr szava,
  betölti lelkünket hálaadással.
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
