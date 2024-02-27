@@ -18,4 +18,7 @@
   <time_sig></time_sig>
   <lyrics>[V1]
  A Te kertjeid már virágzanak bennem,
- királyságod már itt a szívemben.</lyrics></song>
+ királyságod már itt a szívemben.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

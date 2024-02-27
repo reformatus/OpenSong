@@ -17,18 +17,21 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
- Szent vagy, szent vagy, Ó Uram
- A menny és a föld Rólad énekel
- Eljön minden nép, dícsér
- Hódolnak mind a nemzetek
+ Szent vagy, szent vagy, ó, Uram!
+ A menny és a föld Rólad énekel.
+ Eljön minden nép, dicsér,
+ Hódolnak mind a nemzetek.
  
 [B]
  Minden térd meghajol, 
  minden nyelv megvallja,
- hogy Te élsz
+ hogy Te élsz!
  
 [C]
- Fenn a mennyben új dal szól
- imádjátok Jézust
- Övé lett a trón
- Halleluja, Övé lett a trón</lyrics></song>
+ Fenn a mennyben új dal szól:
+ "Imádjátok Jézust,
+ Övé lett a trón!
+ Halleluja, Övé lett a trón!"</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

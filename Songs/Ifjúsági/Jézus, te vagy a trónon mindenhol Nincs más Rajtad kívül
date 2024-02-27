@@ -1,29 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Jézus, te vagy a trónon mindenhol</title>
-  <lyrics>[v1]
- Jézus Te vagy a trónon mindenhol, Jézus Te vagy a trónon mindenhol,
- A kezdet és a vég, minden Érted van, csak Érted van Úr Jézus, Jézus!
+  <lyrics>[V1]
+ Jézus, Te vagy a trónon mindenhol,
+ Jézus, Te vagy a trónon mindenhol.
+ A kezdet és a vég, minden Érted van,
+ csak Érted van Úr Jézus, Jézus!
 
-[p]
- Nincs más Rajtad kívül, nem számít már más, csak Te,
- Jézus ülj a trónon, minden Néked hódoljon, csak neked! (Légy a trónon mindenhol!)
+[C1]
+ Nincs más Rajtad kívül,
+ nem számít már más, csak Te,
+ Jézus, ülj a trónon,
+ minden Néked hódoljon, csak neked!
+ Légy a trónon mindenhol!
 
-[v2]
- Jézus légy a trónon szívemben, Jézus légy a trónon szívemben,
- A kezdet és a vég, minden Érted van, csak Érted van Úr Jézus, Jézus! Nincs más…
+[V2]
+ Jézus, légy a trónon szívemben,
+ Jézus, légy a trónon szívemben!
+ A kezdet és a vég, minden Érted van,
+ csak Érted van Úr Jézus, Jézus!
 
-[c]
- /: Szívemtől fel a mennyig, Jézus légy a trónon,
+[C2]
+ Nincs más Rajtad kívül,
+ nem számít már más, csak Te!
+ Jézus, ülj a trónon,
+ minden Néked hódoljon, csak neked!
+
+[B]
+ /: Szívemtől fel a mennyig
+ Jézus, légy a trónon!
  Rólad szóljon, minden Rólad szóljon! :/
 
-[b]
- Jézus légy a trónon néped közt, Jézus légy a trónon néped közt,
- Minden térd meghajol, minden nyelv megvallja, csak Te vagy Úr Jézus!</lyrics>
+[V3]
+ Jézus, légy a trónon néped közt,
+ Jézus, légy a trónon néped közt!
+ Minden térd meghajol, minden nyelv megvallja,
+ csak Te vagy Úr, Jézus, Jézus!</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 P V2 P C B C</presentation>
+  <presentation>V1 C1 V2 C2 B V3 C2</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>

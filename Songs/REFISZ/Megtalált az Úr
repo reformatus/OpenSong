@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 C1 V1 C2</presentation>
+  <presentation>V1 C1 T</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -20,22 +20,31 @@
  Nem volt reményem és nem volt barátom,
  Egyedül voltam itt a világon,
  Nem ismertem Őt, de közel jött hozzám!
+ ||
  Új reményt adott és átformált engem,
  Ami volt, elmúlt, új ember lettem,
  Drága Szentlelkét küldte el hozzám!
  
 [c1]
- Megtalált az Úr és elhívott engem, mindenem Övé, a gyermeke lettem,
+ Megtalált az Úr és elhívott engem,
+ mindenem Övé, a gyermeke lettem,
  Megtalált az Úr és elmúlt minden félelmem.
- Megtalált az Úr és viszem a jó hírt: Jézus ma is él és nevemen szólít,
+ ||
+ Megtalált az Úr és viszem a jó hírt:
+ Jézus ma is él és nevemen szólít,
  Megtalált az Úr és elmúlt minden félelmem.
  
- 
-[c2]
- Megtalált az Úr és elhívott engem, mindenem Övé, a gyermeke lettem,
+[T]
+ Megtalált az Úr és elhívott engem,
+ mindenem Övé, a gyermeke lettem,
  Megtalált az Úr és elmúlt minden félelmem.
- Megtalált az Úr és viszem a jó hírt: Jézus ma is él és nevemen szólít,
+ ||
+ Megtalált az Úr és viszem a jó hírt:
+ Jézus ma is él és nevemen szólít,
  Megtalált az Úr és elmúlt minden félelmem.
  Jézus él a szívemben!
  
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

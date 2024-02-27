@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Ki olyan mint Ő</title>
+  <title>Ki olyan, mint Ő</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -24,7 +24,7 @@
  
 [C1]
 .F         am     G                    dm           F  G
- Szívből imádd, a napfelkeltétől, míg ránk borul az éjjel!
+ Szívből imádd, a napfelkeltétől míg ránk borul az éjjel!
 .F         am           G                                
  Szívből imádd, minden nemzet, minden nép,
 .       dm               F G 
@@ -42,4 +42,7 @@
 .       dm               F    G    B
  Minden angyal, minden szent: Áldd Őt!
  
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
