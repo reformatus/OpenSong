@@ -19,6 +19,7 @@
   <lyrics>[V1]
  Ha lelkem árva, s kétségek gyötörnek,
  Ha gondok gyűlnek fáradt szívemen,
+ ||
  Úgy várlak némán, lépteid figyelve,
  Míg hozzám érsz, és leülsz csendesen.
  
@@ -31,5 +32,9 @@
 [V2]
  Nincs életem e szomjúságom nélkül...
  Terád úgy vágyik nyugtalan szívem.
+ ||
  De hogyha jösz, és rám zúdítod fényed,
- A Végtelen kitárul előttem.</lyrics></song>
+ A Végtelen kitárul előttem.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

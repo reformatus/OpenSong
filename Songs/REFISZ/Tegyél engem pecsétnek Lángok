@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Tegyél engem pecsétnek</title>
+  <title>Lángok</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>155</hymn_number>
@@ -28,4 +28,7 @@
 [V3]
  Tenger el nem borítja, sok víz el nem oltja,
  Istenemnek szerelmét sok kincs nem pótolja. 
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

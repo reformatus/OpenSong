@@ -17,15 +17,15 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
- Nagy Istenem,ha nézem a világot,
+ Nagy Istenem, ha nézem a világot,
  Melyet teremtett szent "legyen!" szavad.
  Ha itt a földön millió lényt látok,
  Kiket igazgatsz, táplálsz egymagad.
 [C]
  Szívem feléd ujjong örömtele:
- Mily nagy vagy Te,mily nagy vagy Te!
+ Mily nagy vagy Te, mily nagy vagy Te!
  Szívem feléd ujjong örömtele:
- Mily nagy vagy Te,mily nagy vagy Te!
+ Mily nagy vagy Te, mily nagy vagy Te!
 [V2]
  Ha nézek föl,az ég dicső boltjára,
  Hol tündököl csodás csillag sereg,
@@ -37,7 +37,7 @@
  Választott néped, amint egyre áldod,
  Türelmesen viselve bűneit.
 [V4]
- Ha Jézust látom,itt a földön járva,
+ Ha Jézust látom, itt a földön járva,
  Alázatos,türelmes szolgaként,
  Látom,hogy áldást áraszt a világra,
  S kereszthalálra adja életét.
@@ -50,4 +50,7 @@
  Ha majd az Úr elszólít e világból,
  És színről színre láthatom meg Őt,
  Ha majd felém dicső arca világol,
- S én térdre hullok szent színe előtt.</lyrics></song>
+ S én térdre hullok szent színe előtt.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

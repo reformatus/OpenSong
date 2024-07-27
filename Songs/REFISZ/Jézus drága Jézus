@@ -17,23 +17,25 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
- //: Jézus, drága Jézus!
+ /: Jézus, drága Jézus!
  Teljes lényemet 
- én Benned rejtem el. ://
+ én Benned rejtem el :/
  
 [V2]
- //: Vágyaim, terveim, céljaim, 
+ /: Vágyaim, terveim, céljaim:
  Mindent átadok,
- A kezedben hagyok.://
+ A kezedben hagyok :/
  
 [C1]
- //: Mert Teáltalad 
- a szívem már szabad.://
+ Mert Teáltalad 
+ a szívem már szabad,
+ Mert Teáltalad
+ a szívem már szabad
  
 [V3]
  Jézus, drága Jézus!
- Átadom magam, 
- mert oltalmam Te vagy!</lyrics>
+ Átadom magam,
+ mert oltalmam Te vagy</lyrics>
   <linked_songs/>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
