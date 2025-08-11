@@ -20,8 +20,7 @@
  Sok bogáncs fojtja életem,
  káosz van kinn, káosz van benn,
  jöjj, Jézus, állíts helyre!
- 
- 
+ ||
  Istenem lelkem háborog, 
  a sok harcban hitem meginog,
  jöjj, Jézus, állíts helyre!
@@ -35,8 +34,7 @@
  Lázadok, mert nem értelek,
  bűnöm tompítja fényedet,
  jöjj Jézus, állíts helyre!
- 
- 
+ ||
  Félelmek kötik két kezem,
  megkopik bennem szerelmed,
  jöjj Jézus, állíts helyre!
@@ -44,4 +42,7 @@
 [C2]
  Kegyelmed átsüt a réseken,
  gyengeségem erőd színtere,
- jöjj Istenem, jöjj élj bennem!</lyrics></song>
+ jöjj Istenem, jöjj élj bennem!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

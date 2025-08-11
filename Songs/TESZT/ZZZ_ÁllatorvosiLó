@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>ZZZ_ÁllatorvosiLó</title>
+  <lyrics> Versszak nélküli
+[]
+ Üres tages.
+[V]
+ Szám nélküli |versszak
+ Üres | |
+ Sor
+[valami]
+ Furcsa azonosító
+[Árvíztűrő]
+ Unicode azonosító
+[Árvíztűrő tükörfúrógép]
+ szóközös azonosító
+[V1]
+ Első versszak
+ Több soros.
+[valami2]
+ Furcsa azonosító 2.
+[Árvíztűrő2]
+ Unicode azonosító 2.
+[Árvíztűrő tükörfúrógép2]
+ szóközös azonosító 2.
+[ABC 12]
+ Szóköz versszak típusa és száma között
+[C1]
+.C      Am
+ Refrén akkorddal
+[P1]
+.C         Am Gbsus4add9 D  Cm    A#
+ Prechorus sokfé_________le akkorddal
+[B1]
+ Bridge.
+ ||
+ Több diás.
+ Több soros.
+[T1]
+ Coda.
+ |
+ Sorkihagyásos.
+[V1]
+.C       D
+30Számmal jelölt 3. versszak
+4És a negyedik, közös akkordokkal
+.E       F
+3És itt folytatódik a 3. versszak
+4Itt pedig a 4.
+[T2]
+ Itt egy komment:
+;Hello?
+---
+ Ez egy másik oszlopban van nyomtatásban
+-!!
+ Ez pedig új oldalon.
+[1]
+ Ez az első versszak lesz??
+
+.C D B A
+[V1]
+ Ennek ugye nincsenek
+[V2]
+ Akkordjai??
+</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs>
+  <linked_song>Ifjúsági\A szívem vágyik Hozzád</linked_song></linked_songs>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

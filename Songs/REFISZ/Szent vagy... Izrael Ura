@@ -6,7 +6,7 @@
   <hymn_number>268</hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -38,4 +38,7 @@
  Mindörökké trónolj,
  uraknak Ura,
  Sion, emelkedj fel, tárd fel
- ősi kapudat és kiáltsd!</lyrics></song>
+ ősi kapudat és kiáltsd!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -17,38 +17,33 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
- Jöjjetek, 
  Jöjjetek,
- Mind kik, 
- Szomjaztok,
+ Jöjjetek mind, kik szomjaztok,
  Pihenjetek meg.
  
 [V2]
- Az élő víz
- Ajándék,
- Mind kik,
- Szomjaztok,
+ Az élő víz ajándék,
+ Mind, kik szomjaztok,
  Pihenjetek meg.
  
 [B]
- A csendes víznél, 
- hűs forrásnál,
+ A csendes víznél, hűs forrásnál
  Hajolj le és igyál.
- Az élő víz mossa át 
- teljesen lényedet,
+ Az élő víz mossa át teljesen lényedet,
  Hadd vigye mindazt, ami fáj.
  
 [C1]
  Békességemmel felüdítem a szíved.
- Igyál a vízből, 
- és ne szomjazz többet.
+ Igyál a vízből, és ne szomjazz többet.
  Békességemmel felüdítem a szíved.
- Igyál a vízből,
- és ne szomjazz meg.
+ Igyál a vízből, és ne szomjazz meg.
  
 [C2]
  Békességem szövetsége
  nem múlik el,
  Békességem szövetsége
  nem múlik el.
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

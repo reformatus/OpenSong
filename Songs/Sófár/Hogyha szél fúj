@@ -17,11 +17,12 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V]
- Hogy ha szél fúj,
- hogy ha ég zeng, 
- hogy ha szél fúj melletted,
+ Hogyha szél fúj,
+ hogyha ég zeng, 
+ hogyha szél fúj melletted,
+[C]
  Ő erős, mikor én gyenge vagyok,
- erős karjában bízhatok,
- Hogy ha szél fúj,
- hogy ha ég zeng,
- hogy ha szél fúj melletted.</lyrics></song>
+ erős karjában bízhatok.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
